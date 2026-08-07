@@ -1,0 +1,2127 @@
+﻿ストライク, Scyther, Temporal Forces, 001
+クヌギダマ, Pineco, Temporal Forces, 002
+タネボー, Seedot, Temporal Forces, 003
+コノハナ, Nuzleaf, Temporal Forces, 004
+ダーテング, Shiftry, Temporal Forces, 005
+キノココ, Shroomish, Temporal Forces, 006
+キノガッサ, Breloom, Temporal Forces, 007
+ロゼリア, Roselia, Temporal Forces, 008
+ロズレイド, Roserade, Temporal Forces, 009
+ナエトル, Turtwig, Temporal Forces, 010
+ハヤシガメ, Grotle, Temporal Forces, 011
+ドダイトスex, Torterra ex, Temporal Forces, 012
+シェイミ, Shaymin, Temporal Forces, 013
+モンメン, Cottonee, Temporal Forces, 014
+エルフーン, Whimsicott, Temporal Forces, 015
+シキジカ, Deerling, Temporal Forces, 016
+メブキジカ, Sawsbuck, Temporal Forces, 017
+アゴジムシ, Grubbin, Temporal Forces, 018
+ダダリン, Dhelmise, Temporal Forces, 019
+アノクサ, Bramblin, Temporal Forces, 020
+アノホラグサ, Brambleghast, Temporal Forces, 021
+スコヴィランex, Scovillain ex, Temporal Forces, 022
+シガロコ, Rellor, Temporal Forces, 023
+ベラカス, Rabsca, Temporal Forces, 024
+テツノイサハex, Iron Leaves ex, Temporal Forces, 025
+ポニータ, Ponyta, Temporal Forces, 026
+ギャロップ, Rapidash, Temporal Forces, 027
+マグマッグ, Slugma, Temporal Forces, 028
+マグカルゴ, Magcargo, Temporal Forces, 029
+ビクティニ, Victini, Temporal Forces, 030
+クイタラン, Heatmor, Temporal Forces, 031
+ニャビー, Litten, Temporal Forces, 032
+ニャヒート, Torracat, Temporal Forces, 033
+ガオガエンex, Incineroar ex, Temporal Forces, 034
+バクガメス, Turtonator, Temporal Forces, 035
+ヤクデ, Sizzlipede, Temporal Forces, 036
+マルヤクデ, Centiskorch, Temporal Forces, 037
+ウガツホムラex, Gouging Fire ex, Temporal Forces, 038
+ワニノコ, Totodile, Temporal Forces, 039
+アリゲイツ, Croconaw, Temporal Forces, 040
+オーダイル, Feraligatr, Temporal Forces, 041
+キバニア, Carvanha, Temporal Forces, 042
+サメハダー, Sharpedo, Temporal Forces, 043
+ケルディオ, Keldeo, Temporal Forces, 044
+ユキハミ, Snom, Temporal Forces, 045
+モスノウ, Frosmoth, Temporal Forces, 046
+ウミディグダ, Wiglett, Temporal Forces, 047
+ナミイルカ, Finizen, Temporal Forces, 048
+イルカマン, Palafin, Temporal Forces, 049
+ウネルミナモex, Walking Wake ex, Temporal Forces, 050
+ピカチュウ, Pikachu, Temporal Forces, 051
+ライチュウ, Raichu, Temporal Forces, 052
+エレブー, Electabuzz, Temporal Forces, 053
+エレキブル, Electivire, Temporal Forces, 054
+デンヂムシ, Charjabug, Temporal Forces, 055
+クワガノン, Vikavolt, Temporal Forces, 056
+ゼラオラ, Zeraora, Temporal Forces, 057
+ワンパチ, Yamper, Temporal Forces, 058
+パルスワン, Boltund, Temporal Forces, 059
+ウミトリオex, Wugtrio ex, Temporal Forces, 060
+テツノカイナ, Iron Hands, Temporal Forces, 061
+テツノイバラ, Iron Thorns, Temporal Forces, 062
+バリヤード, Mr. Mime, Temporal Forces, 063
+マリル, Marill, Temporal Forces, 064
+マリルリ, Azumarill, Temporal Forces, 065
+キリンリキ, Girafarig, Temporal Forces, 066
+ラティアス, Latias, Temporal Forces, 067
+ドーミラー, Bronzor, Temporal Forces, 068
+ドータクン, Bronzong, Temporal Forces, 069
+ユニラン, Solosis, Temporal Forces, 070
+ダブラン, Duosion, Temporal Forces, 071
+ランクルス, Reuniclus, Temporal Forces, 072
+リグレー, Elgyem, Temporal Forces, 073
+オーベム, Beheeyem, Temporal Forces, 074
+アブリー, Cutiefly, Temporal Forces, 075
+アブリボン, Ribombee, Temporal Forces, 076
+サケブシッポ, Scream Tail, Temporal Forces, 077
+ハバタクカミ, Flutter Mane, Temporal Forces, 078
+テツノブジン, Iron Valiant, Temporal Forces, 079
+テツノブジン, Iron Valiant, Temporal Forces, 080
+テツノカシラex, Iron Crown ex, Temporal Forces, 081
+アサナン, Meditite, Temporal Forces, 082
+チャーレム, Medicham, Temporal Forces, 083
+ジーランス, Relicanth, Temporal Forces, 084
+モグリュー, Drilbur, Temporal Forces, 085
+ドリュウズ, Excadrill, Temporal Forces, 086
+ゴビット, Golett, Temporal Forces, 087
+ゴルーグ, Golurk, Temporal Forces, 088
+イワンコ, Rockruff, Temporal Forces, 089
+ルガルガン, Lycanroc, Temporal Forces, 090
+ドロバンコ, Mudbray, Temporal Forces, 091
+バンバドロ, Mudsdale, Temporal Forces, 092
+タンドン, Rolycoly, Temporal Forces, 093
+トロッゴン, Carkol, Temporal Forces, 094
+セキタンザン, Coalossal, Temporal Forces, 095
+イダイナキバ, Great Tusk, Temporal Forces, 096
+イダイナキバ, Great Tusk, Temporal Forces, 097
+スナノケガワ, Sandy Shocks, Temporal Forces, 098
+テツノイワオex, Iron Boulder ex, Temporal Forces, 099
+アーボ, Ekans, Temporal Forces, 100
+アーボック, Arbok, Temporal Forces, 101
+ゴース, Gastly, Temporal Forces, 102
+ゴースト, Haunter, Temporal Forces, 103
+ゲンガーex, Gengar ex, Temporal Forces, 104
+ポチエナ, Poochyena, Temporal Forces, 105
+グラエナ, Mightyena, Temporal Forces, 106
+ヤミラミ, Sableye, Temporal Forces, 107
+リキキリンex, Farigiraf ex, Temporal Forces, 108
+トドロクロツキ, Roaring Moon, Temporal Forces, 109
+フォレトス, Forretress, Temporal Forces, 110
+ハッサムex, Scizor ex, Temporal Forces, 111
+クチート, Mawile, Temporal Forces, 112
+ダンバル, Beldum, Temporal Forces, 113
+メタング, Metang, Temporal Forces, 114
+メタグロス, Metagross, Temporal Forces, 115
+メルタン, Meltan, Temporal Forces, 116
+メルメタル, Melmetal, Temporal Forces, 117
+テツノワダチ, Iron Treads, Temporal Forces, 118
+コライドン, Koraidon, Temporal Forces, 119
+コライドンex, Koraidon ex, Temporal Forces, 120
+ミライドン, Miraidon, Temporal Forces, 121
+ミライドンex, Miraidon ex, Temporal Forces, 122
+タケルライコex, Raging Bolt ex, Temporal Forces, 123
+ベロリンガ, Lickitung, Temporal Forces, 124
+ベロベルト, Lickilicky, Temporal Forces, 125
+ホーホー, Hoothoot, Temporal Forces, 126
+ヨルノズク, Noctowl, Temporal Forces, 127
+ノコッチ, Dunsparce, Temporal Forces, 128
+ノココッチ, Dudunsparce, Temporal Forces, 129
+エネコ, Skitty, Temporal Forces, 130
+エネコロロ, Delcatty, Temporal Forces, 131
+ペラップ, Chatot, Temporal Forces, 132
+マメパト, Pidove, Temporal Forces, 133
+ハトーボー, Tranquill, Temporal Forces, 134
+ケンホロウ, Unfezant, Temporal Forces, 135
+チラーミィ, Minccino, Temporal Forces, 136
+チラチーノ, Cinccino, Temporal Forces, 137
+ジジーロン, Drampa, Temporal Forces, 138
+テツノコウベ, Iron Jugulis, Temporal Forces, 139
+ブーストエナジー 古代, Ancient Booster Energy Capsule, Temporal Forces, 140
+覚醒のドラム, Awakening Drum, Temporal Forces, 141
+ベルのまごころ, Bianca’s Devotion, Temporal Forces, 142
+おとりよせボックス, Boxed Order, Temporal Forces, 143
+なかよしポフィン, Buddy-Buddy Poffin, Temporal Forces, 144
+暗号マニアの解読, Ciphermaniac’s Codebreaking, Temporal Forces, 145
+ビワ, Eri, Temporal Forces, 146
+探検家の先導, Explorer’s Guidance, Temporal Forces, 147
+フルメタルラボ, Full Metal Lab, Temporal Forces, 148
+ブーストエナジー 未来, Future Booster Energy Capsule, Temporal Forces, 149
+ハンドトリマー, Hand Trimmer, Temporal Forces, 150
+ヘビーバトン, Heavy Baton, Temporal Forces, 151
+ヒーローマント, Hero’s Cape, Temporal Forces, 152
+マスターボール, Master Ball, Temporal Forces, 153
+マキシマムベルト, Maximum Belt, Temporal Forces, 154
+マツバの確信, Morty’s Conviction, Temporal Forces, 155
+危険な密林, Perilous Jungle, Temporal Forces, 156
+プライムキャッチャー, Prime Catcher, Temporal Forces, 157
+リブートポッド, Reboot Pod, Temporal Forces, 158
+緊急ボード, Rescue Board, Temporal Forces, 159
+セイジ, Salvatore, Temporal Forces, 160
+ミストエネルギー, Mist Energy, Temporal Forces, 161
+ネオアッパーエネルギー, Neo Upper Energy, Temporal Forces, 162
+
+
+モンジャラ, Tangela, Twilight Masquerade, 001
+モジャンボ, Tangrowth, Twilight Masquerade, 002
+カイロス, Pinsir, Twilight Masquerade, 003
+イトマル, Spinarak, Twilight Masquerade, 004
+アリアドス, Ariados, Twilight Masquerade, 005
+ヒマナッツ, Sunkern, Twilight Masquerade, 006
+キマワリ, Sunflora, Twilight Masquerade, 007
+ヘラクロス, Heracross, Twilight Masquerade, 008
+バルビート, Volbeat, Twilight Masquerade, 009
+イルミーゼ, Illumise, Twilight Masquerade, 010
+リーフィア, Leafeon, Twilight Masquerade, 011
+ボクレー, Phantump, Twilight Masquerade, 012
+オーロット, Trevenant, Twilight Masquerade, 013
+サルノリ, Grookey, Twilight Masquerade, 014
+バチンキー, Thwackey, Twilight Masquerade, 015
+ゴリランダー, Rillaboom, Twilight Masquerade, 016
+カジッチュ, Applin, Twilight Masquerade, 017
+カミッチュ, Dipplin, Twilight Masquerade, 018
+テツノイサハ, Iron Leaves, Twilight Masquerade, 019
+チャデス, Poltchageist, Twilight Masquerade, 020
+チャデス, Poltchageist, Twilight Masquerade, 021
+ヤバソチャ, Sinistcha, Twilight Masquerade, 022
+ヤバソチャex, Sinistcha ex, Twilight Masquerade, 023
+オーガポン みどりのめん, Teal Mask Ogerpon, Twilight Masquerade, 024
+オーガポン みどりのめんex, Teal Mask Ogerpon ex, Twilight Masquerade, 025
+ロコン, Vulpix, Twilight Masquerade, 026
+キュウコン, Ninetales, Twilight Masquerade, 027
+マグマッグ, Slugma, Twilight Masquerade, 028
+マグカルゴex, Magcargo ex, Twilight Masquerade, 029
+コータス, Torkoal, Twilight Masquerade, 030
+ヒコザル, Chimchar, Twilight Masquerade, 031
+モウカザル, Monferno, Twilight Masquerade, 032
+ゴウカザル, Infernape, Twilight Masquerade, 033
+ダルマッカ, Darumaka, Twilight Masquerade, 034
+ヒヒダルマ, Darmanitan, Twilight Masquerade, 035
+ヒトモシ, Litwick, Twilight Masquerade, 036
+ランプラー, Lampent, Twilight Masquerade, 037
+シャンデラ, Chandelure, Twilight Masquerade, 038
+イーユイ, Chi-Yu, Twilight Masquerade, 039
+オーガポン かまどのめんex, Hearthflame Mask Ogerpon ex, Twilight Masquerade, 040
+ニョロモ, Poliwag, Twilight Masquerade, 041
+ニョロゾ, Poliwhirl, Twilight Masquerade, 042
+ニョロボン, Poliwrath, Twilight Masquerade, 043
+トサキント, Goldeen, Twilight Masquerade, 044
+アズマオウ, Seaking, Twilight Masquerade, 045
+ルージュラ, Jynx, Twilight Masquerade, 046
+ヘイガニ, Corphish, Twilight Masquerade, 047
+シザリガー, Crawdaunt, Twilight Masquerade, 048
+ヒンバス, Feebas, Twilight Masquerade, 049
+ミロカロス, Milotic, Twilight Masquerade, 050
+ユキワラシ, Snorunt, Twilight Masquerade, 051
+オニゴーリ, Glalie, Twilight Masquerade, 052
+ユキメノコ, Froslass, Twilight Masquerade, 053
+グレイシア, Glaceon, Twilight Masquerade, 054
+フィオネ, Phione, Twilight Masquerade, 055
+ケロマツ, Froakie, Twilight Masquerade, 056
+ゲコガシラ, Frogadier, Twilight Masquerade, 057
+ウッウ, Cramorant, Twilight Masquerade, 058
+ナミイルカ, Finizen, Twilight Masquerade, 059
+イルカマン, Palafin, Twilight Masquerade, 060
+イルカマンex, Palafin ex, Twilight Masquerade, 061
+テツノツツミ, Iron Bundle, Twilight Masquerade, 062
+ウネルミナモ, Walking Wake, Twilight Masquerade, 063
+オーガポン いどのめんex, Wellspring Mask Ogerpon ex, Twilight Masquerade, 064
+サンダー, Zapdos, Twilight Masquerade, 065
+コリンク, Shinx, Twilight Masquerade, 066
+ルクシオ, Luxio, Twilight Masquerade, 067
+レントラーex, Luxray ex, Twilight Masquerade, 068
+エモンガ, Emolga, Twilight Masquerade, 069
+エリキテル, Helioptile, Twilight Masquerade, 070
+エレザード, Heliolisk, Twilight Masquerade, 071
+モルペコ, Morpeko, Twilight Masquerade, 072
+ズピカ, Tadbulb, Twilight Masquerade, 073
+ハラバリー, Bellibolt, Twilight Masquerade, 074
+カイデン, Wattrel, Twilight Masquerade, 075
+タイカイデン, Kilowattrel, Twilight Masquerade, 076
+テツノイバラex, Iron Thorns ex, Twilight Masquerade, 077
+ピッピ, Clefairy, Twilight Masquerade, 078
+ピクシー, Clefable, Twilight Masquerade, 079
+ケーシィ, Abra, Twilight Masquerade, 080
+ユンゲラー, Kadabra, Twilight Masquerade, 081
+フーディン, Alakazam, Twilight Masquerade, 082
+キリンリキ, Girafarig, Twilight Masquerade, 083
+リキキリン, Farigiraf, Twilight Masquerade, 084
+チリーン, Chimecho, Twilight Masquerade, 085
+フラベベ, Flabébé, Twilight Masquerade, 086
+フラエッテ, Floette, Twilight Masquerade, 087
+フラージェス, Florges, Twilight Masquerade, 088
+ペロッパフ, Swirlix, Twilight Masquerade, 089
+ペロリーム, Slurpuff, Twilight Masquerade, 090
+スナバァ, Sandygast, Twilight Masquerade, 091
+シロデスナ, Palossand, Twilight Masquerade, 092
+ラブトロス, Enamorus, Twilight Masquerade, 093
+サケブシッポex, Scream Tail ex, Twilight Masquerade, 094
+マシマシラ, Munkidori, Twilight Masquerade, 095
+キチキギス, Fezandipiti, Twilight Masquerade, 096
+サンド, Sandshrew, Twilight Masquerade, 097
+サンドパン, Sandslash, Twilight Masquerade, 098
+ヒスイ ガーディ, Hisuian Growlithe, Twilight Masquerade, 099
+ヒスイ ウインディ, Hisuian Arcanine, Twilight Masquerade, 100
+ノズパス, Nosepass, Twilight Masquerade, 101
+ダイノーズ, Probopass, Twilight Masquerade, 102
+ドッコラー, Timburr, Twilight Masquerade, 103
+ドテッコツ, Gurdurr, Twilight Masquerade, 104
+ローブシン, Conkeldurr, Twilight Masquerade, 105
+ゲッコウガex, Greninja ex, Twilight Masquerade, 106
+ルチャブル, Hawlucha, Twilight Masquerade, 107
+キラーメ, Glimmet, Twilight Masquerade, 108
+キラフロル, Glimmora, Twilight Masquerade, 109
+ディンルー, Ting-Lu, Twilight Masquerade, 110
+イイネイヌ, Okidogi, Twilight Masquerade, 111
+オーガポン いしずえのめんex, Cornerstone Mask Ogerpon ex, Twilight Masquerade, 112
+ポチエナ, Poochyena, Twilight Masquerade, 113
+グラエナ, Mightyena, Twilight Masquerade, 114
+フシデ, Venipede, Twilight Masquerade, 115
+ホイーガ, Whirlipede, Twilight Masquerade, 116
+ペンドラー, Scolipede, Twilight Masquerade, 117
+アラブルタケ, Brute Bonnet, Twilight Masquerade, 118
+エアームド, Skarmory, Twilight Masquerade, 119
+ココドラ, Aron, Twilight Masquerade, 120
+コドラ, Lairon, Twilight Masquerade, 121
+ボスゴドラ, Aggron, Twilight Masquerade, 122
+ヒードラン, Heatran, Twilight Masquerade, 123
+ブロロン, Varoom, Twilight Masquerade, 124
+ブロロローム, Revavroom, Twilight Masquerade, 125
+カジッチュ, Applin, Twilight Masquerade, 126
+カミッチュ, Dipplin, Twilight Masquerade, 127
+ドラメシヤ, Dreepy, Twilight Masquerade, 128
+ドロンチ, Drakloak, Twilight Masquerade, 129
+ドラパルトex, Dragapult ex, Twilight Masquerade, 130
+シャリタツ, Tatsugiri, Twilight Masquerade, 131
+カモネギ, Farfetch’d, Twilight Masquerade, 132
+ラッキー, Chansey, Twilight Masquerade, 133
+ハピナスex, Blissey ex, Twilight Masquerade, 134
+イーブイ, Eevee, Twilight Masquerade, 135
+カビゴン, Snorlax, Twilight Masquerade, 136
+エイパム, Aipom, Twilight Masquerade, 137
+エテボース, Ambipom, Twilight Masquerade, 138
+コアルヒー, Ducklett, Twilight Masquerade, 139
+スワンナ, Swanna, Twilight Masquerade, 140
+ガチグマ アカツキex, Bloodmoon Ursaluna ex, Twilight Masquerade, 141
+おはやし笛, Accompanying Flute, Twilight Masquerade, 142
+むしとりセット, Bug Catching Set, Twilight Masquerade, 143
+管理人, Caretaker, Twilight Masquerade, 144
+ゼイユ, Carmine, Twilight Masquerade, 145
+公民館, Community Center, Twilight Masquerade, 146
+コック, Cook, Twilight Masquerade, 147
+改造ハンマー, Enhanced Hammer, Twilight Masquerade, 148
+お祭り会場, Festival Grounds, Twilight Masquerade, 149
+ハンディサーキュレーター, Handheld Circulator, Twilight Masquerade, 150
+ハッサク, Hassel, Twilight Masquerade, 151
+ハイパーアロマ, Hyper Aroma, Twilight Masquerade, 152
+ジャミングタワー, Jamming Tower, Twilight Masquerade, 153
+スグリ, Kieran, Twilight Masquerade, 154
+スイレンのお世話, Lana’s Aid, Twilight Masquerade, 155
+ラブラブボール, Love Ball, Twilight Masquerade, 156
+ゴヨウ, Lucian, Twilight Masquerade, 157
+ラッキーメット, Lucky Helmet, Twilight Masquerade, 158
+鬼の仮面, Ogre’s Mask, Twilight Masquerade, 159
+サザレ, Perrin, Twilight Masquerade, 160
+レホール, Raifort, Twilight Masquerade, 161
+回収サイクロン, Scoop Up Cyclone, Twilight Masquerade, 162
+シークレットボックス, Secret Box, Twilight Masquerade, 163
+サバイバルギブス, Survival Brace, Twilight Masquerade, 164
+アンフェアスタンプ, Unfair Stamp, Twilight Masquerade, 165
+ブーメランエネルギー, Boomerang Energy, Twilight Masquerade, 166
+レガシーエネルギー, Legacy Energy, Twilight Masquerade, 167
+
+
+
+
+バチュル, Joltik, Shrouded Fable, 001
+デンチュラ, Galvantula, Shrouded Fable, 002
+モクロー, Rowlet, Shrouded Fable, 003
+フクスロー, Dartrix, Shrouded Fable, 004
+ジュナイパー, Decidueye, Shrouded Fable, 005
+カプ・ブルル, Tapu Bulu, Shrouded Fable, 006
+デルビル, Houndour, Shrouded Fable, 007
+ヘルガー, Houndoom, Shrouded Fable, 008
+テツノドクガ, Iron Moth, Shrouded Fable, 009
+タッツー, Horsea, Shrouded Fable, 010
+シードラ, Seadra, Shrouded Fable, 011
+キングドラex, Kingdra ex, Shrouded Fable, 012
+ニューラ, Sneasel, Shrouded Fable, 013
+マニューラ, Weavile, Shrouded Fable, 014
+ブロロロームex, Revavroom ex, Shrouded Fable, 015
+スリープ, Drowzee, Shrouded Fable, 016
+スリーパー, Hypno, Shrouded Fable, 017
+ヨマワル, Duskull, Shrouded Fable, 018
+サマヨール, Dusclops, Shrouded Fable, 019
+ヨノワール, Dusknoir, Shrouded Fable, 020
+クレセリア, Cresselia, Shrouded Fable, 021
+ニンフィア, Sylveon, Shrouded Fable, 022
+グレッグル, Croagunk, Shrouded Fable, 023
+ドクロッグ, Toxicroak, Shrouded Fable, 024
+ガチグマ アカツキ, Bloodmoon Ursaluna, Shrouded Fable, 025
+チヲハウハネ, Slither Wing, Shrouded Fable, 026
+ズバット, Zubat, Shrouded Fable, 027
+ゴルバット, Golbat, Shrouded Fable, 028
+クロバット, Crobat, Shrouded Fable, 029
+アブソル, Absol, Shrouded Fable, 030
+ゾロア, Zorua, Shrouded Fable, 031
+ゾロアーク, Zoroark, Shrouded Fable, 032
+マーイーカ, Inkay, Shrouded Fable, 033
+カラマネロ, Malamar, Shrouded Fable, 034
+イベルタル, Yveltal, Shrouded Fable, 035
+イイネイヌex, Okidogi ex, Shrouded Fable, 036
+マシマシラex, Munkidori ex, Shrouded Fable, 037
+キチキギスex, Fezandipiti ex, Shrouded Fable, 038
+モモワロウex, Pecharunt ex, Shrouded Fable, 039
+ゲノセクト, Genesect, Shrouded Fable, 040
+ゾウドウ, Cufant, Shrouded Fable, 041
+ダイオウドウ, Copperajah, Shrouded Fable, 042
+ブロロン, Varoom, Shrouded Fable, 043
+キバゴ, Axew, Shrouded Fable, 044
+オノンド, Fraxure, Shrouded Fable, 045
+オノノクス, Haxorus, Shrouded Fable, 046
+キュレム, Kyurem, Shrouded Fable, 047
+ニャース, Meowth, Shrouded Fable, 048
+ペルシアン, Persian, Shrouded Fable, 049
+イーブイ, Eevee, Shrouded Fable, 050
+トリミアン, Furfrou, Shrouded Fable, 051
+ヌイコグマ, Stufful, Shrouded Fable, 052
+キテルグマ, Bewear, Shrouded Fable, 053
+夜のアカデミー, Academy at Night, Shrouded Fable, 054
+くさりもち, Binding Mochi, Shrouded Fable, 055
+カシオペア, Cassiopeia, Shrouded Fable, 056
+アクロマの執念, Colress’s Tenacity, Shrouded Fable, 057
+デンジャラス光線, Dangerous Laser, Shrouded Fable, 058
+アンズの秘技, Janine’s Secret Art, Shrouded Fable, 059
+ニュートラルセンター, Neutralization Zone, Shrouded Fable, 060
+夜のタンカ, Night Stretcher, Shrouded Fable, 061
+ポケバイタルA, Poké Vital A, Shrouded Fable, 062
+力の砂時計, Powerglass, Shrouded Fable, 063
+クセロシキのたくらみ, Xerosic’s Machinations, Shrouded Fable, 064
+
+
+
+
+フシギバナex, Venusaur ex, Stellar Crown, 001
+レディバ, Ledyba, Stellar Crown, 002
+レディアン, Ledian, Stellar Crown, 003
+セレビィ, Celebi, Stellar Crown, 004
+リリーラ, Lileep, Stellar Crown, 005
+ユレイドル, Cradily, Stellar Crown, 006
+マスキッパ, Carnivine, Stellar Crown, 007
+カットロトム, Mow Rotom, Stellar Crown, 008
+アゴジムシ, Grubbin, Stellar Crown, 009
+ヒメンカ, Gossifleur, Stellar Crown, 010
+ワタシラガ, Eldegoss, Stellar Crown, 011
+カジッチュ, Applin, Stellar Crown, 012
+カミッチュ, Dipplin, Stellar Crown, 013
+カミツオロチex, Hydrapple ex, Stellar Crown, 014
+マメバッタ, Nymble, Stellar Crown, 015
+エクスレッグ, Lokix, Stellar Crown, 016
+ノノクラゲ, Toedscool, Stellar Crown, 017
+リククラゲ, Toedscruel, Stellar Crown, 018
+ポニータ, Ponyta, Stellar Crown, 019
+ギャロップ, Rapidash, Stellar Crown, 020
+バオップ, Pansear, Stellar Crown, 021
+レシラム, Reshiram, Stellar Crown, 022
+ヤトウモリ, Salandit, Stellar Crown, 023
+エンニュート, Salazzle, Stellar Crown, 024
+バクガメス, Turtonator, Stellar Crown, 025
+ヒバニー, Scorbunny, Stellar Crown, 026
+ラビフット, Raboot, Stellar Crown, 027
+エースバーンex, Cinderace ex, Stellar Crown, 028
+カルボウ, Charcadet, Stellar Crown, 029
+カメックスex, Blastoise ex, Stellar Crown, 030
+ラプラス, Lapras, Stellar Crown, 031
+ラプラスex, Lapras ex, Stellar Crown, 032
+マリル, Marill, Stellar Crown, 033
+マリルリ, Azumarill, Stellar Crown, 034
+ケイコウオ, Finneon, Stellar Crown, 035
+ネオラント, Lumineon, Stellar Crown, 036
+プロトーガ, Tirtouga, Stellar Crown, 037
+アバゴーラ, Carracosta, Stellar Crown, 038
+ケロマツ, Froakie, Stellar Crown, 039
+ゲコガシラ, Frogadier, Stellar Crown, 040
+ゲッコウガex, Greninja ex, Stellar Crown, 041
+ケケンカニ, Crabominable, Stellar Crown, 042
+カムカメ, Chewtle, Stellar Crown, 043
+カジリガメ, Drednaw, Stellar Crown, 044
+ミガルーサ, Veluza, Stellar Crown, 045
+エレブー, Electabuzz, Stellar Crown, 046
+エレキブル, Electivire, Stellar Crown, 047
+チョンチー, Chinchou, Stellar Crown, 048
+ランターン, Lanturn, Stellar Crown, 049
+バチュル, Joltik, Stellar Crown, 050
+デンチュラex, Galvantula ex, Stellar Crown, 051
+デンヂムシ, Charjabug, Stellar Crown, 052
+クワガノン, Vikavolt, Stellar Crown, 053
+トゲデマル, Togedemaru, Stellar Crown, 054
+ゼラオラ, Zeraora, Stellar Crown, 055
+パモ, Pawmi, Stellar Crown, 056
+ヤドン, Slowpoke, Stellar Crown, 057
+ヤドキング, Slowking, Stellar Crown, 058
+ミュウツー, Mewtwo, Stellar Crown, 059
+フワンテ, Drifloon, Stellar Crown, 060
+フワライド, Drifblim, Stellar Crown, 061
+デスマス, Yamask, Stellar Crown, 062
+キュワワー, Comfey, Stellar Crown, 063
+マホミル, Milcery, Stellar Crown, 064
+マホイップ, Alcremie, Stellar Crown, 065
+パピモッチ, Fidough, Stellar Crown, 066
+バウッツェルex, Dachsbun ex, Stellar Crown, 067
+ヒラヒナ, Flittle, Stellar Crown, 068
+クエスパトラ, Espathra, Stellar Crown, 069
+ボチ, Greavard, Stellar Crown, 070
+テツノイワオ, Iron Boulder, Stellar Crown, 071
+カラカラ, Cubone, Stellar Crown, 072
+ガラガラ, Marowak, Stellar Crown, 073
+サイホーン, Rhyhorn, Stellar Crown, 074
+サイドン, Rhydon, Stellar Crown, 075
+ドサイドン, Rhyperior, Stellar Crown, 076
+アサナン, Meditite, Stellar Crown, 077
+アサナン, Meditite, Stellar Crown, 078
+チャーレム, Medicham, Stellar Crown, 079
+チャーレムex, Medicham ex, Stellar Crown, 080
+リオル, Riolu, Stellar Crown, 081
+ルカリオex, Lucario ex, Stellar Crown, 082
+コジョフー, Mienfoo, Stellar Crown, 083
+コジョンド, Mienshao, Stellar Crown, 084
+ヤンチャム, Pancham, Stellar Crown, 085
+ディアンシー, Diancie, Stellar Crown, 086
+マケンカニ, Crabrawler, Stellar Crown, 087
+タイレーツ, Falinks, Stellar Crown, 088
+キョジオーンex, Garganacl ex, Stellar Crown, 089
+コライドン, Koraidon, Stellar Crown, 090
+ゴクリン, Gulpin, Stellar Crown, 091
+マルノーム, Swalot, Stellar Crown, 092
+ゴロンダ, Pangoro, Stellar Crown, 093
+ベロバー, Impidimp, Stellar Crown, 094
+ギモー, Morgrem, Stellar Crown, 095
+オーロンゲ, Grimmsnarl, Stellar Crown, 096
+オトシドリ, Bombirdier, Stellar Crown, 097
+ジラーチ, Jirachi, Stellar Crown, 098
+ギアル, Klink, Stellar Crown, 099
+ギギアル, Klang, Stellar Crown, 100
+ギギギアル, Klinklang, Stellar Crown, 101
+メルタン, Meltan, Stellar Crown, 102
+メルタン, Meltan, Stellar Crown, 103
+メルメタル, Melmetal, Stellar Crown, 104
+メルメタルex, Melmetal ex, Stellar Crown, 105
+ジュラルドン, Duraludon, Stellar Crown, 106
+ブリジュラス, Archaludon, Stellar Crown, 107
+ブロロン, Varoom, Stellar Crown, 108
+ブロロローム, Revavroom, Stellar Crown, 109
+ミミズズex, Orthworm ex, Stellar Crown, 110
+タケルライコ, Raging Bolt, Stellar Crown, 111
+ケンタロス, Tauros, Stellar Crown, 112
+イーブイ, Eevee, Stellar Crown, 113
+ホーホー, Hoothoot, Stellar Crown, 114
+ヨルノズク, Noctowl, Stellar Crown, 115
+ニャルマー, Glameow, Stellar Crown, 116
+ブニャット, Purugly, Stellar Crown, 117
+スピンロトム, Fan Rotom, Stellar Crown, 118
+バッフロン, Bouffalant, Stellar Crown, 119
+トルネロス, Tornadus, Stellar Crown, 120
+ヤヤコマ, Fletchling, Stellar Crown, 121
+ヒノヤコマ, Fletchinder, Stellar Crown, 122
+ファイアロー, Talonflame, Stellar Crown, 123
+ウールー, Wooloo, Stellar Crown, 124
+バイウールー, Dubwool, Stellar Crown, 125
+グルトン, Lechonk, Stellar Crown, 126
+モトトカゲ, Cyclizar, Stellar Crown, 127
+テラパゴスex, Terapagos ex, Stellar Crown, 128
+古びたふたの化石, Antique Cover Fossil, Stellar Crown, 129
+古びたねっこ化石, Antique Root Fossil, Stellar Crown, 130
+ゼロの大空洞, Area Zero Underdepths, Stellar Crown, 131
+ブライア, Briar, Stellar Crown, 132
+アカマツ, Crispin, Stellar Crown, 133
+デラックスボム, Deluxe Bomb, Stellar Crown, 134
+ガラスのラッパ, Glass Trumpet, Stellar Crown, 135
+偉大な大樹, Grand Tree, Stellar Crown, 136
+重力玉, Gravity Gemstone, Stellar Crown, 137
+ハイダイ, Kofu, Stellar Crown, 138
+タロ, Lacey, Stellar Crown, 139
+バコのみ, Occa Berry, Stellar Crown, 140
+ウタンのみ, Payapa Berry, Stellar Crown, 141
+きらめく結晶, Sparkling Crystal, Stellar Crown, 142
+
+
+
+
+タマタマ, Exeggcute, Surging Sparks, 001
+タマタマ, Exeggcute, Surging Sparks, 002
+ナッシー, Exeggutor, Surging Sparks, 003
+アイアントex, Durant ex, Surging Sparks, 004
+コフキムシ, Scatterbug, Surging Sparks, 005
+コフーライ, Spewpa, Surging Sparks, 006
+ビビヨン, Vivillon, Surging Sparks, 007
+ネマシュ, Morelull, Surging Sparks, 008
+マシェード, Shiinotic, Surging Sparks, 009
+ダダリン, Dhelmise, Surging Sparks, 010
+ザルード, Zarude, Surging Sparks, 011
+カプサイジ, Capsakid, Surging Sparks, 012
+シガロコ, Rellor, Surging Sparks, 013
+ベラカス, Rabsca, Surging Sparks, 014
+チオンジェン, Wo-Chien, Surging Sparks, 015
+ロコン, Vulpix, Surging Sparks, 016
+キュウコン, Ninetales, Surging Sparks, 017
+パルデア ケンタロス, Paldean Tauros, Surging Sparks, 018
+ホウオウ, Ho-Oh, Surging Sparks, 019
+ポワルン たいようのすがた, Castform Sunny Form, Surging Sparks, 020
+ビクティニ, Victini, Surging Sparks, 021
+バオップ, Pansear, Surging Sparks, 022
+バオッキー, Simisear, Surging Sparks, 023
+メラルバ, Larvesta, Surging Sparks, 024
+ウルガモス, Volcarona, Surging Sparks, 025
+オドリドリ, Oricorio, Surging Sparks, 026
+ヤクデ, Sizzlipede, Surging Sparks, 027
+マルヤクデ, Centiskorch, Surging Sparks, 028
+ホゲータ, Fuecoco, Surging Sparks, 029
+アチゲータ, Crocalor, Surging Sparks, 030
+ラウドボーン, Skeledirge, Surging Sparks, 031
+カルボウ, Charcadet, Surging Sparks, 032
+カルボウ, Charcadet, Surging Sparks, 033
+グレンアルマ, Armarouge, Surging Sparks, 034
+ソウブレイズ, Ceruledge, Surging Sparks, 035
+ソウブレイズex, Ceruledge ex, Surging Sparks, 036
+スコヴィランex, Scovillain ex, Surging Sparks, 037
+ウガツホムラ, Gouging Fire, Surging Sparks, 038
+パルデア ケンタロス, Paldean Tauros, Surging Sparks, 039
+マンタイン, Mantine, Surging Sparks, 040
+ヒンバス, Feebas, Surging Sparks, 041
+ミロカロスex, Milotic ex, Surging Sparks, 042
+タマザラシ, Spheal, Surging Sparks, 043
+トドグラー, Sealeo, Surging Sparks, 044
+トドゼルガ, Walrein, Surging Sparks, 045
+カラナクシ, Shellos, Surging Sparks, 046
+フリージオ, Cryogonal, Surging Sparks, 047
+ブラックキュレムex, Black Kyurem ex, Surging Sparks, 048
+ハギギシリ, Bruxish, Surging Sparks, 049
+クワッス, Quaxly, Surging Sparks, 050
+ウェルカモ, Quaxwell, Surging Sparks, 051
+ウェーニバル, Quaquaval, Surging Sparks, 052
+アルクジラ, Cetoddle, Surging Sparks, 053
+ハルクジラ, Cetitan, Surging Sparks, 054
+テツノツツミ, Iron Bundle, Surging Sparks, 055
+パオジアン, Chien-Pao, Surging Sparks, 056
+ピカチュウex, Pikachu ex, Surging Sparks, 057
+コイル, Magnemite, Surging Sparks, 058
+レアコイル, Magneton, Surging Sparks, 059
+ジバコイル, Magnezone, Surging Sparks, 060
+ロトム, Rotom, Surging Sparks, 061
+シママ, Blitzle, Surging Sparks, 062
+ゼブライカ, Zebstrika, Surging Sparks, 063
+マッギョ, Stunfisk, Surging Sparks, 064
+カプ・コケコ, Tapu Koko, Surging Sparks, 065
+カイデン, Wattrel, Surging Sparks, 066
+タイカイデン, Kilowattrel, Surging Sparks, 067
+タイカイデンex, Kilowattrel ex, Surging Sparks, 068
+ミライドン, Miraidon, Surging Sparks, 069
+トゲピー, Togepi, Surging Sparks, 070
+トゲチック, Togetic, Surging Sparks, 071
+トゲキッス, Togekiss, Surging Sparks, 072
+マリル, Marill, Surging Sparks, 073
+マリルリ, Azumarill, Surging Sparks, 074
+ムチュール, Smoochum, Surging Sparks, 075
+ラティアスex, Latias ex, Surging Sparks, 076
+ラティオス, Latios, Surging Sparks, 077
+ユクシー, Uxie, Surging Sparks, 078
+エムリット, Mesprit, Surging Sparks, 079
+アグノム, Azelf, Surging Sparks, 080
+シンボラー, Sigilyph, Surging Sparks, 081
+デスマス, Yamask, Surging Sparks, 082
+デスカーン, Cofagrigus, Surging Sparks, 083
+ニャスパー, Espurr, Surging Sparks, 084
+ニャオニクス, Meowstic, Surging Sparks, 085
+ニンフィアex, Sylveon ex, Surging Sparks, 086
+デデンネ, Dedenne, Surging Sparks, 087
+ゼルネアス, Xerneas, Surging Sparks, 088
+オドリドリ, Oricorio, Surging Sparks, 089
+スナバァ, Sandygast, Surging Sparks, 090
+シロデスナex, Palossand ex, Surging Sparks, 091
+カプ・テテフ, Tapu Lele, Surging Sparks, 092
+イエッサン, Indeedee, Surging Sparks, 093
+ヒラヒナ, Flittle, Surging Sparks, 094
+クエスパトラ, Espathra, Surging Sparks, 095
+ハバタクカミ, Flutter Mane, Surging Sparks, 096
+コレクレー, Gimmighoul, Surging Sparks, 097
+マンキー, Mankey, Surging Sparks, 098
+オコリザル, Primeape, Surging Sparks, 099
+コノヨザル, Annihilape, Surging Sparks, 100
+パルデア ケンタロス, Paldean Tauros, Surging Sparks, 101
+ゴマゾウ, Phanpy, Surging Sparks, 102
+ドンファン, Donphan, Surging Sparks, 103
+ナックラー, Trapinch, Surging Sparks, 104
+ビブラーバ, Vibrava, Surging Sparks, 105
+フライゴンex, Flygon ex, Surging Sparks, 106
+トリトドン, Gastrodon, Surging Sparks, 107
+モグリュー, Drilbur, Surging Sparks, 108
+ドリュウズ, Excadrill, Surging Sparks, 109
+ランドロス, Landorus, Surging Sparks, 110
+ナゲツケザル, Passimian, Surging Sparks, 111
+タタッコ, Clobbopus, Surging Sparks, 112
+オトスパス, Grapploct, Surging Sparks, 113
+キラーメ, Glimmet, Surging Sparks, 114
+キラフロル, Glimmora, Surging Sparks, 115
+コライドン, Koraidon, Surging Sparks, 116
+モノズ, Deino, Surging Sparks, 117
+ジヘッド, Zweilous, Surging Sparks, 118
+サザンドラex, Hydreigon ex, Surging Sparks, 119
+シルシュルー, Shroodle, Surging Sparks, 120
+タギングル, Grafaiai, Surging Sparks, 121
+アローラディグダ, Alolan Diglett, Surging Sparks, 122
+アローラダグトリオ, Alolan Dugtrio, Surging Sparks, 123
+エアームド, Skarmory, Surging Sparks, 124
+レジスチル, Registeel, Surging Sparks, 125
+ドーミラー, Bronzor, Surging Sparks, 126
+ドータクン, Bronzong, Surging Sparks, 127
+クレッフィ, Klefki, Surging Sparks, 128
+ジュラルドン, Duraludon, Surging Sparks, 129
+ブリジュラスex, Archaludon ex, Surging Sparks, 130
+サーフゴー, Gholdengo, Surging Sparks, 131
+テツノカシラ, Iron Crown, Surging Sparks, 132
+アローラナッシーex, Alolan Exeggutor ex, Surging Sparks, 133
+チルタリス, Altaria, Surging Sparks, 134
+ディアルガ, Dialga, Surging Sparks, 135
+パルキア, Palkia, Surging Sparks, 136
+バクガメス, Turtonator, Surging Sparks, 137
+カジッチュ, Applin, Surging Sparks, 138
+アップリュー, Flapple, Surging Sparks, 139
+タルップル, Appletun, Surging Sparks, 140
+ムゲンダイナ, Eternatus, Surging Sparks, 141
+シャリタツex, Tatsugiri ex, Surging Sparks, 142
+イーブイ, Eevee, Surging Sparks, 143
+カビゴン, Snorlax, Surging Sparks, 144
+ナマケロ, Slakoth, Surging Sparks, 145
+ヤルキモノ, Vigoroth, Surging Sparks, 146
+ケッキングex, Slaking ex, Surging Sparks, 147
+チルット, Swablu, Surging Sparks, 148
+ザングース, Zangoose, Surging Sparks, 149
+カクレオン, Kecleon, Surging Sparks, 150
+バッフロン, Bouffalant, Surging Sparks, 151
+ワシボン, Rufflet, Surging Sparks, 152
+ウォーグル, Braviary, Surging Sparks, 153
+エリキテル, Helioptile, Surging Sparks, 154
+エレザード, Heliolisk, Surging Sparks, 155
+ヤレユータン, Oranguru, Surging Sparks, 156
+ワッカネズミ, Tandemaus, Surging Sparks, 157
+イッカネズミ, Maushold, Surging Sparks, 158
+モトトカゲex, Cyclizar ex, Surging Sparks, 159
+カラミンゴex, Flamigo ex, Surging Sparks, 160
+テラパゴス, Terapagos, Surging Sparks, 161
+希望のアミュレット, Amulet of Hope, Surging Sparks, 162
+リリバのみ, Babiri Berry, Surging Sparks, 163
+パーフェクトミキサー, Brilliant Blender, Surging Sparks, 164
+おたすけベル, Call Bell, Surging Sparks, 165
+のんびりじゃらし, Chill Teaser Toy, Surging Sparks, 166
+シトロンの機転, Clemont’s Quick Wit, Surging Sparks, 167
+ナモのみ, Colbur Berry, Surging Sparks, 168
+カウンターゲイン, Counter Gain, Surging Sparks, 169
+シアノ, Cyrano, Surging Sparks, 170
+推理セット, Deduction Kit, Surging Sparks, 171
+竜の秘薬, Dragon Elixir, Surging Sparks, 172
+ドラセナ, Drasna, Surging Sparks, 173
+カキツバタ, Drayton, Surging Sparks, 174
+ダークボール, Dusk Ball, Surging Sparks, 175
+エネルギー転送PRO, Energy Search Pro, Surging Sparks, 176
+グラビティマウンテン, Gravity Mountain, Surging Sparks, 177
+ミカンのまなざし, Jasmine’s Gaze, Surging Sparks, 178
+ルチアのアピール, Lisia’s Appeal, Surging Sparks, 179
+エキサイトスタジアム, Lively Stadium, Surging Sparks, 180
+ぼうがいレター, Meddling Memo, Surging Sparks, 181
+メガトンブロアー, Megaton Blower, Surging Sparks, 182
+ミラクルインカム, Miracle Headset, Surging Sparks, 183
+イトケのみ, Passho Berry, Surging Sparks, 184
+プレシャスキャリー, Precious Trolley, Surging Sparks, 185
+スクランブルスイッチ, Scramble Switch, Surging Sparks, 186
+サーファー, Surfer, Surging Sparks, 187
+ワザマシン フローライト, Technical Machine: Fluorite, Surging Sparks, 188
+テラスタルオーブ, Tera Orb, Surging Sparks, 189
+タイム, Tyme, Surging Sparks, 190
+リッチエネルギー, Enriching Energy, Surging Sparks, 191
+
+
+
+
+タマタマ, Exeggcute, Prismatic Evolutions, 001
+ナッシー, Exeggutor, Prismatic Evolutions, 002
+カイロス, Pinsir, Prismatic Evolutions, 003
+スボミー, Budew, Prismatic Evolutions, 004
+リーフィア, Leafeon, Prismatic Evolutions, 005
+リーフィアex, Leafeon ex, Prismatic Evolutions, 006
+モンメン, Cottonee, Prismatic Evolutions, 007
+エルフーン, Whimsicott, Prismatic Evolutions, 008
+カジッチュ, Applin, Prismatic Evolutions, 009
+カミッチュ, Dipplin, Prismatic Evolutions, 010
+カミツオロチex, Hydrapple ex, Prismatic Evolutions, 011
+オーガポン みどりのめんex, Teal Mask Ogerpon ex, Prismatic Evolutions, 012
+ブースター, Flareon, Prismatic Evolutions, 013
+ブースターex, Flareon ex, Prismatic Evolutions, 014
+シシコ, Litleo, Prismatic Evolutions, 015
+カエンジシ, Pyroar, Prismatic Evolutions, 016
+オーガポン かまどのめんex, Hearthflame Mask Ogerpon ex, Prismatic Evolutions, 017
+ヤドン, Slowpoke, Prismatic Evolutions, 018
+ヤドキング, Slowking, Prismatic Evolutions, 019
+トサキント, Goldeen, Prismatic Evolutions, 020
+アズマオウ, Seaking, Prismatic Evolutions, 021
+シャワーズ, Vaporeon, Prismatic Evolutions, 022
+シャワーズex, Vaporeon ex, Prismatic Evolutions, 023
+スイクン, Suicune, Prismatic Evolutions, 024
+グレイシア, Glaceon, Prismatic Evolutions, 025
+グレイシアex, Glaceon ex, Prismatic Evolutions, 026
+オーガポン いどのめんex, Wellspring Mask Ogerpon ex, Prismatic Evolutions, 027
+ピカチュウex, Pikachu ex, Prismatic Evolutions, 028
+サンダース, Jolteon, Prismatic Evolutions, 029
+サンダースex, Jolteon ex, Prismatic Evolutions, 030
+テツノカイナex, Iron Hands ex, Prismatic Evolutions, 031
+テツノイバラex, Iron Thorns ex, Prismatic Evolutions, 032
+エーフィ, Espeon, Prismatic Evolutions, 033
+エーフィex, Espeon ex, Prismatic Evolutions, 034
+ヨマワル, Duskull, Prismatic Evolutions, 035
+サマヨール, Dusclops, Prismatic Evolutions, 036
+ヨノワール, Dusknoir, Prismatic Evolutions, 037
+シュシュプ, Spritzee, Prismatic Evolutions, 038
+フレフワン, Aromatisse, Prismatic Evolutions, 039
+ニンフィア, Sylveon, Prismatic Evolutions, 040
+ニンフィアex, Sylveon ex, Prismatic Evolutions, 041
+サケブシッポ, Scream Tail, Prismatic Evolutions, 042
+ハバタクカミ, Flutter Mane, Prismatic Evolutions, 043
+マシマシラ, Munkidori, Prismatic Evolutions, 044
+イイネイヌ, Fezandipiti, Prismatic Evolutions, 045
+テツノイワオ, Iron Boulder, Prismatic Evolutions, 046
+ヨーギラス, Larvitar, Prismatic Evolutions, 047
+サナギラス, Pupitar, Prismatic Evolutions, 048
+グラードン, Groudon, Prismatic Evolutions, 049
+リオル, Riolu, Prismatic Evolutions, 050
+ルカリオex, Lucario ex, Prismatic Evolutions, 051
+ヒポポタス, Hippopotas, Prismatic Evolutions, 052
+カバルドン, Hippowdon, Prismatic Evolutions, 053
+ガチグマ アカツキ, Bloodmoon Ursaluna, Prismatic Evolutions, 054
+イダイナキバ, Great Tusk, Prismatic Evolutions, 055
+スナケガワex, Sandy Shocks ex, Prismatic Evolutions, 056
+キチキギス, Okidogi, Prismatic Evolutions, 057
+オーガポン いしずえのめんex, Cornerstone Mask Ogerpon ex, Prismatic Evolutions, 058
+ブラッキー, Umbreon, Prismatic Evolutions, 059
+ブラッキーex, Umbreon ex, Prismatic Evolutions, 060
+ニューラ, Sneasel, Prismatic Evolutions, 061
+デルビル, Houndour, Prismatic Evolutions, 062
+ヘルガー, Houndoom, Prismatic Evolutions, 063
+バンギラスex, Tyranitar ex, Prismatic Evolutions, 064
+トドロクツキ, Roaring Moon, Prismatic Evolutions, 065
+ドーミラー, Bronzor, Prismatic Evolutions, 066
+ドータクン, Bronzong, Prismatic Evolutions, 067
+ヒードラン, Heatran, Prismatic Evolutions, 068
+ジュラルドン, Duraludon, Prismatic Evolutions, 069
+ブリジュラス, Archaludon, Prismatic Evolutions, 070
+ドラメシヤ, Dreepy, Prismatic Evolutions, 071
+ドロンチ, Drakloak, Prismatic Evolutions, 072
+ドラパルトex, Dragapult ex, Prismatic Evolutions, 073
+イーブイ, Eevee, Prismatic Evolutions, 074
+イーブイex, Eevee ex, Prismatic Evolutions, 075
+カビゴンex, Snorlax ex, Prismatic Evolutions, 076
+ホーホー, Hoothoot, Prismatic Evolutions, 077
+ヨルノズク, Noctowl, Prismatic Evolutions, 078
+ノコッチ, Dunsparce, Prismatic Evolutions, 079
+ノココッチ, Dudunsparce, Prismatic Evolutions, 080
+ミルタンク, Miltank, Prismatic Evolutions, 081
+ルギアex, Lugia ex, Prismatic Evolutions, 082
+ミミロル, Buneary, Prismatic Evolutions, 083
+ミミロップ, Lopunny, Prismatic Evolutions, 084
+スピンロトム, Fan Rotom, Prismatic Evolutions, 085
+レジギガス, Regigigas, Prismatic Evolutions, 086
+シェイミ, Shaymin, Prismatic Evolutions, 087
+トリミアン, Furfrou, Prismatic Evolutions, 088
+ルチャブル, Hawlucha, Prismatic Evolutions, 089
+オンバット, Noibat, Prismatic Evolutions, 090
+オンバーンex, Noivern ex, Prismatic Evolutions, 091
+テラパゴスex, Terapagos ex, Prismatic Evolutions, 092
+ネリネ, Amarys, Prismatic Evolutions, 093
+ゼロの大空洞, Area Zero Underdepths, Prismatic Evolutions, 094
+くさり, Binding Mochi, Prismatic Evolutions, 095
+からておうの稽古, Black Belt’s Training, Prismatic Evolutions, 096
+からておうの稽古, Black Belt’s Training, Prismatic Evolutions, 097
+からておうの稽古, Black Belt’s Training, Prismatic Evolutions, 098
+からておうの稽古, Black Belt’s Training, Prismatic Evolutions, 099
+ブライア, Briar, Prismatic Evolutions, 100
+なかよしポフィン, Buddy-Buddy Poffin, Prismatic Evolutions, 101
+むしとりセット, Bug Catching Set, Prismatic Evolutions, 102
+ぜイユ, Carmine, Prismatic Evolutions, 103
+暗号マニアの解読, Ciphermaniac’s Codebreaking, Prismatic Evolutions, 104
+アカマツ, Crispin, Prismatic Evolutions, 105
+大地の器, Earthen Vessel, Prismatic Evolutions, 106
+探検家の先導, Explorer’s Guidance, Prismatic Evolutions, 107
+お祭り会場, Festival Grounds, Prismatic Evolutions, 108
+パルデアの仲間たち, Friends in Paldea, Prismatic Evolutions, 109
+ガラスのラッパ, Glass Trumpet, Prismatic Evolutions, 110
+ハバンのみ, Haban Berry, Prismatic Evolutions, 111
+アンズの秘技, Janine’s Secret Art, Prismatic Evolutions, 112
+スグリ, Kieran, Prismatic Evolutions, 113
+タロ, Lacey, Prismatic Evolutions, 114
+アオキの手際, Larry’s Skill, Prismatic Evolutions, 115
+つりざおMAX, Max Rod, Prismatic Evolutions, 116
+マキシマムベルト, Maximum Belt, Prismatic Evolutions, 117
+鬼の仮面, Ogre’s Mask, Prismatic Evolutions, 118
+プライムキャッチャー, Prime Catcher, Prismatic Evolutions, 119
+オーリム博士の気迫, Professor Sada’s Vitality, Prismatic Evolutions, 120
+フトゥー博士のシナリオ, Professor Turo’s Scenario, Prismatic Evolutions, 121
+博士の研究, Professor’s Research, Prismatic Evolutions, 122
+博士の研究, Professor’s Research, Prismatic Evolutions, 123
+博士の研究, Professor’s Research, Prismatic Evolutions, 124
+博士の研究, Professor’s Research, Prismatic Evolutions, 125
+緊急ボード, Rescue Board, Prismatic Evolutions, 126
+ロトりぼう, Roto-Stick, Prismatic Evolutions, 127
+ポケモン回収サイクロン, Scoop Up Cyclone, Prismatic Evolutions, 128
+きらめく結晶, Sparkling Crystal, Prismatic Evolutions, 129
+テクノレーダー, Techno Radar, Prismatic Evolutions, 130
+トレジャーガジェット, Treasure Tracker, Prismatic Evolutions, 131
+
+
+
+
+キャタピー, Caterpie, Journey Together, 001
+トランセル, Metapod, Journey Together, 002
+バタフリー, Butterfree, Journey Together, 003
+パラス, Paras, Journey Together, 004
+パラセクト, Parasect, Journey Together, 005
+チュリネ, Petilil, Journey Together, 006
+ドレディア, Lilligant, Journey Together, 007
+マラカッチ, Maractus, Journey Together, 008
+カブルモ, Karrablast, Journey Together, 009
+タマゲタケ, Foongus, Journey Together, 010
+モロバレルex, Amoonguss ex, Journey Together, 011
+チョボマキ, Shelmet, Journey Together, 012
+アギルダー, Accelgor, Journey Together, 013
+アイアント, Durant, Journey Together, 014
+ビリジオン, Virizion, Journey Together, 015
+ニャオハ, Sprigatito, Journey Together, 016
+ニャローテ, Floragato, Journey Together, 017
+マスカーニャ, Meowscarada, Journey Together, 018
+マメバッタ, Nymble, Journey Together, 019
+ブーバー, Magmar, Journey Together, 020
+ブーバーン, Magmortar, Journey Together, 021
+アチャモ, Torchic, Journey Together, 022
+ワカシャモ, Combusken, Journey Together, 023
+バシャーモex, Blaziken ex, Journey Together, 024
+コータス, Torkoal, Journey Together, 025
+Nのダルマッカ, N’s Darumaka, Journey Together, 026
+Nのヒヒダルマ, N’s Darmanitan, Journey Together, 027
+メラルバ, Larvesta, Journey Together, 028
+ウルガモス, Volcarona, Journey Together, 029
+レシラムex, Reshiram ex, Journey Together, 030
+ボルケニオンex, Volcanion ex, Journey Together, 031
+フリーザー, Articuno, Journey Together, 032
+テッポウオ, Remoraid, Journey Together, 033
+オクタン, Octillery, Journey Together, 034
+ハスボー, Lotad, Journey Together, 035
+ハスブレロ, Lombre, Journey Together, 036
+ルンパッパ, Ludicolo, Journey Together, 037
+キャモメ, Wingull, Journey Together, 038
+ペリッパー, Pelipper, Journey Together, 039
+ホエルコ, Wailmer, Journey Together, 040
+ホエルオー, Wailord, Journey Together, 041
+レジアイス, Regice, Journey Together, 042
+ミガルーサex, Veluza ex, Journey Together, 043
+アローライシツブテ, Alolan Geodude, Journey Together, 044
+アローラゴローン, Alolan Graveler, Journey Together, 045
+アローラゴローニャ, Alolan Golem, Journey Together, 046
+ナンジャモのビリリダマ, Iono’s Voltorb, Journey Together, 047
+ナンジャモのマルマイン, Iono’s Electrode, Journey Together, 048
+Nのシビシラス, N’s Joltik, Journey Together, 049
+トゲデマル, Togedemaru, Journey Together, 050
+カプ・コケコex, Tapu Koko ex, Journey Together, 051
+ナンジャモのズピカ, Iono’s Tadbulb, Journey Together, 052
+ナンジャモのハラバリーex, Iono’s Bellibolt ex, Journey Together, 053
+ナンジャモのカイデン, Iono’s Wattrel, Journey Together, 054
+ナンジャモのタイカイデン, Iono’s Kilowattrel, Journey Together, 055
+リーリエのピッピex, Lillie’s Clefairy ex, Journey Together, 056
+アローラガラガラ, Alolan Marowak, Journey Together, 057
+バリヤード, Mr. Mime, Journey Together, 058
+カゲボウズ, Shuppet, Journey Together, 059
+ジュペッタ, Banette, Journey Together, 060
+ダンバル, Beldum, Journey Together, 061
+メタング, Metang, Journey Together, 062
+メタグロス, Metagross, Journey Together, 063
+Nのシンボラー, N’s Sigilyph, Journey Together, 064
+オドリドリ, Oricorio, Journey Together, 065
+リーリエのアカネ, Lillie’s Cutiefly, Journey Together, 066
+リーリエのエリキテル, Lillie’s Ribombee, Journey Together, 067
+リーリエのアブリー, Lillie’s Comfey, Journey Together, 068
+ミミッキュex, Mimikyu ex, Journey Together, 069
+ダダリン, Dhelmise, Journey Together, 070
+ベロリンガ, Impidimp, Journey Together, 071
+ペルシアン, Morgrem, Journey Together, 072
+オーロンゲ, Grimmsnarl, Journey Together, 073
+マホミル, Milcery, Journey Together, 074
+マホイップex, Alcremie ex, Journey Together, 075
+カラカラ, Cubone, Journey Together, 076
+ウリムー, Swinub, Journey Together, 077
+イノムー, Piloswine, Journey Together, 078
+マンムーex, Mamoswine ex, Journey Together, 079
+ヨーギラス, Larvitar, Journey Together, 080
+サナギラス, Pupitar, Journey Together, 081
+レジロック, Regirock, Journey Together, 082
+ヤンチャム, Pancham, Journey Together, 083
+イワンコ, Rockruff, Journey Together, 084
+ルガルガン, Lycanroc, Journey Together, 085
+ホップのスナヘビ, Hop’s Silicobra, Journey Together, 086
+ホップのサダイジャ, Hop’s Sandaconda, Journey Together, 087
+ウデッポウ, Toedscool, Journey Together, 088
+ブロスター, Toedscruel, Journey Together, 089
+ガケガニ, Klawf, Journey Together, 090
+ドガース, Koffing, Journey Together, 091
+マタドガス, Weezing, Journey Together, 092
+パルデアウパー, Paldean Wooper, Journey Together, 093
+パルデアドオーex, Paldean Clodsire ex, Journey Together, 094
+バンギラス, Tyranitar, Journey Together, 095
+Nのチョロネコ, N’s Purrloin, Journey Together, 096
+Nのゾロア, N’s Zorua, Journey Together, 097
+Nのゾロアークex, N’s Zoroark ex, Journey Together, 098
+レパルダス, Pangoro, Journey Together, 099
+エクスレッグ, Lokix, Journey Together, 100
+カイデン, Bombirdier, Journey Together, 101
+シュバルゴ, Escavalier, Journey Together, 102
+Nのギアル, N’s Klink, Journey Together, 103
+Nのギギアル, N’s Klang, Journey Together, 104
+Nのギギギアル, N’s Klinklang, Journey Together, 105
+ガラルマッギョ, Galarian Stunfisk, Journey Together, 106
+マギアナ, Magearna, Journey Together, 107
+ホップのアーマーガア, Hop’s Corviknight, Journey Together, 108
+ゾウドウ, Cufant, Journey Together, 109
+ダイオウドウ, Copperajah, Journey Together, 110
+ホップのザシアンex, Hop’s Zacian ex, Journey Together, 111
+タツベイ, Bagon, Journey Together, 112
+コモルー, Shelgon, Journey Together, 113
+ボーマンダex, Salamence ex, Journey Together, 114
+クリムガン, Druddigon, Journey Together, 115
+Nのレシラム, N’s Reshiram, Journey Together, 116
+ホップのカビゴン, Hop’s Snorlax, Journey Together, 117
+オタチ, Sentret, Journey Together, 118
+オオタチ, Furret, Journey Together, 119
+ノコッチ, Dunsparce, Journey Together, 120
+ノココッチex, Dudunsparce ex, Journey Together, 121
+パッチール, Kecleon, Journey Together, 122
+トロピウス, Tropius, Journey Together, 123
+タブンネ, Audino, Journey Together, 124
+チラーミィ, Minccino, Journey Together, 125
+チラチーノ, Cinccino, Journey Together, 126
+オンバット, Noibat, Journey Together, 127
+オンバーン, Noivern, Journey Together, 128
+ネッコアラ, Komala, Journey Together, 129
+ジジーロン, Drampa, Journey Together, 130
+ホシガリス, Skwovet, Journey Together, 131
+ヨクバリス, Greedent, Journey Together, 132
+ホップのココドラ, Hop’s Rookidee, Journey Together, 133
+ホップのココドラタ, Hop’s Corvisquire, Journey Together, 134
+ホップのウールー, Hop’s Wooloo, Journey Together, 135
+ホップのバイウールー, Hop’s Dubwool, Journey Together, 136
+ウッウ, Cramorant, Journey Together, 137
+ホップのウッウ, Hop’s Cramorant, Journey Together, 138
+グルトン, Lechonk, Journey Together, 139
+パフュートン, Oinkologne, Journey Together, 140
+イキリンコ, Squawkabilly, Journey Together, 141
+ビリオとネア, Billy & O’Nare, Journey Together, 142
+からておうの稽古, Black Belt’s Training, Journey Together, 143
+からておうの稽古, Black Belt’s Training, Journey Together, 144
+からておうの稽古, Black Belt’s Training, Journey Together, 145
+タケシのスカウト, Brock’s Scouting, Journey Together, 146
+ホップのバッグ, Hop’s Bag, Journey Together, 147
+ホップのこだわりハチマキ, Hop’s Choice Band, Journey Together, 148
+アイリスの闘志, Iris’s Fighting Spirit, Journey Together, 149
+ハッコウシティ, Levincia, Journey Together, 150
+リーリエのしんじゅ, Lillie’s Pearl, Journey Together, 151
+Nの城, N’s Castle, Journey Together, 152
+Nのポイントアップ, N’s PP Up, Journey Together, 153
+ハロンタウン, Postwick, Journey Together, 154
+博士の研究, Professor’s Research, Journey Together, 155
+とりかえチケット, Redeemable Ticket, Journey Together, 156
+怖いお兄さん, Ruffian, Journey Together, 157
+すごいつりざお, Super Potion, Journey Together, 158
+スパイクエネルギー, Spiky Energy, Journey Together, 159
+
+
+
+
+ヒビキのカイロス, Ethan’s Pinsir, Destined Rivals, 001
+ヤンヤンマ, Yanma, Destined Rivals, 002
+メガヤンマex, Yanmega ex, Destined Rivals, 003
+クヌギダマ, Pineco, Destined Rivals, 004
+キノココ, Shroomish, Destined Rivals, 005
+キノガッサ, Breloom, Destined Rivals, 006
+シロナのロゼリア, Cynthia’s Roselia, Destined Rivals, 007
+シロナのロズレイド, Cynthia’s Roserade, Destined Rivals, 008
+カットロトム, Mow Rotom, Destined Rivals, 009
+シェイミ, Shaymin, Destined Rivals, 010
+イシズマイ, Dwebble, Destined Rivals, 011
+イワパレス, Crustle, Destined Rivals, 012
+カリキリ, Fomantis, Destined Rivals, 013
+ラランテス, Lurantis, Destined Rivals, 014
+ロケット団のマメバッタ, Team Rocket’s Blipbug, Destined Rivals, 015
+カジッチュ, Applin, Destined Rivals, 016
+カミッチュ, Dipplin, Destined Rivals, 017
+カミツオロチ, Hydrapple, Destined Rivals, 018
+ロケット団のタマンチュラ, Team Rocket’s Tarountula, Destined Rivals, 019
+ロケット団のワナイダー, Team Rocket’s Spidops, Destined Rivals, 020
+ミニーブ, Smoliv, Destined Rivals, 021
+オリート, Dolliv, Destined Rivals, 022
+オリーヴァex, Arboliva ex, Destined Rivals, 023
+レオル, Rellor, Destined Rivals, 024
+ベラカスex, Rabsca ex, Destined Rivals, 025
+オーガポン みどりのめん, Teal Mask Ogerpon, Destined Rivals, 026
+ガーディ, Growlithe, Destined Rivals, 027
+ウインディ, Arcanine, Destined Rivals, 028
+ポニータ, Ponyta, Destined Rivals, 029
+ギャロップ, Rapidash, Destined Rivals, 030
+ロケット団のファイヤーex, Team Rocket’s Moltres ex, Destined Rivals, 031
+ヒビキのヒノアラシ, Ethan’s Cyndaquil, Destined Rivals, 032
+ヒビキのマグマラシ, Ethan’s Quilava, Destined Rivals, 033
+ヒビキのバクフーン, Ethan’s Typhlosion, Destined Rivals, 034
+ヒビキのマグマッグ, Ethan’s Slugma, Destined Rivals, 035
+ヒビキのマグカルゴ, Ethan’s Magcargo, Destined Rivals, 036
+ロケット団のデルビル, Team Rocket’s Houndour, Destined Rivals, 037
+ロケット団のヘルガー, Team Rocket’s Houndoom, Destined Rivals, 038
+ヒビキのホウオウex, Ethan’s Ho-Oh ex, Destined Rivals, 039
+アチャモ, Torchic, Destined Rivals, 040
+ワカシャモ, Combusken, Destined Rivals, 041
+バシャーモ, Blaziken, Destined Rivals, 042
+ヒートロトム, Heat Rotom, Destined Rivals, 043
+オーガポン かまどのめん, Hearthflame Mask Ogerpon, Destined Rivals, 044
+カスミのコダック, Misty’s Psyduck, Destined Rivals, 045
+カスミヒトデマン, Misty’s Staryu, Destined Rivals, 046
+カスミのスターミー, Misty’s Starmie, Destined Rivals, 047
+カスミのコイキング, Misty’s Magikarp, Destined Rivals, 048
+カスミのギャラドス, Misty’s Gyarados, Destined Rivals, 049
+カスミのラプラス, Misty’s Lapras, Destined Rivals, 050
+ロケット団のフリーザー, Team Rocket’s Articuno, Destined Rivals, 051
+シロナのヒンバス, Cynthia’s Feebas, Destined Rivals, 052
+シロナのミロカロス, Cynthia’s Milotic, Destined Rivals, 053
+パールル, Clamperl, Destined Rivals, 054
+ハンテール, Huntail, Destined Rivals, 055
+サクラビス, Gorebyss, Destined Rivals, 056
+ブイゼル, Buizel, Destined Rivals, 057
+フローゼル, Floatzel, Destined Rivals, 058
+ユキカブリ, Snover, Destined Rivals, 059
+ユキノオー, Abomasnow, Destined Rivals, 060
+ウォッシュロトム, Wash Rotom, Destined Rivals, 061
+アシマリ, Arrokuda, Destined Rivals, 062
+オシャマリ, Barraskewda, Destined Rivals, 063
+アシレーヌ, Cetoddle, Destined Rivals, 064
+ウミディグダ, Cetitan ex, Destined Rivals, 065
+ヘイラッシャex, Dondozo ex, Destined Rivals, 066
+オーガポン いどのめん, Wellspring Mask Ogerpon, Destined Rivals, 067
+エレブー, Electabuzz, Destined Rivals, 068
+エレキブルex, Electivire ex, Destined Rivals, 069
+ロケット団のサンダー, Team Rocket’s Zapdos, Destined Rivals, 070
+ヒビキのピチュー, Ethan’s Pichu, Destined Rivals, 071
+ロケット団のメリープ, Team Rocket’s Mareep, Destined Rivals, 072
+ロケット団のモココ, Team Rocket’s Flaaffy, Destined Rivals, 073
+ロケット団のデンリュウ, Team Rocket’s Ampharos, Destined Rivals, 074
+ラクライ, Electrike, Destined Rivals, 075
+ライボルト, Manectric, Destined Rivals, 076
+ロトム, Rotom, Destined Rivals, 077
+ゼラオラ, Zeraora, Destined Rivals, 078
+ロケット団のスリープ, Team Rocket’s Drowzee, Destined Rivals, 079
+ロケット団のスリーパー, Team Rocket’s Hypno, Destined Rivals, 080
+ロケット団のミュウツーex, Team Rocket’s Mewtwo ex, Destined Rivals, 081
+ロケット団のソーナンス, Team Rocket’s Wobbuffet, Destined Rivals, 082
+ダイゴのダンバル, Steven’s Baltoy, Destined Rivals, 083
+ダイゴのメタング, Steven’s Claydol, Destined Rivals, 084
+ロケット団のリーシャン, Team Rocket’s Chingling, Destined Rivals, 085
+ダイゴのメタグロスex, Steven’s Carbink, Destined Rivals, 086
+ロケット団のミミッキュ, Team Rocket’s Mimikyu, Destined Rivals, 087
+ロケット団のクルマユ, Team Rocket’s Dottler, Destined Rivals, 088
+ロケット団のハハコモリ, Team Rocket’s Orbeetle, Destined Rivals, 089
+マンキー, Mankey, Destined Rivals, 090
+オコリザル, Primeape, Destined Rivals, 091
+コノヨザル, Annihilape, Destined Rivals, 092
+ヒビキのウソッキー, Ethan’s Sudowoodo, Destined Rivals, 093
+ロケット団のヨーギラス, Team Rocket’s Larvitar, Destined Rivals, 094
+ロケット団のサナギラス, Team Rocket’s Pupitar, Destined Rivals, 095
+ロケット団のバンギラス, Team Rocket’s Tyranitar, Destined Rivals, 096
+ノズパス, Nosepass, Destined Rivals, 097
+ダイノーズ, Probopass, Destined Rivals, 098
+アサナン, Meditite, Destined Rivals, 099
+チャーレム, Medicham, Destined Rivals, 100
+レジロックex, Regirock ex, Destined Rivals, 101
+シロナのフカマル, Cynthia’s Gible, Destined Rivals, 102
+シロナのガバイト, Cynthia’s Gabite, Destined Rivals, 103
+シロナのガブリアスex, Cynthia’s Garchomp ex, Destined Rivals, 104
+ヒポポタス, Hippopotas, Destined Rivals, 105
+カバルドン, Hippowdon, Destined Rivals, 106
+ドロバンコ, Mudbray, Destined Rivals, 107
+バンバドロ, Mudsdale, Destined Rivals, 108
+ペパーのウデッポウ, Arven’s Toedscool, Destined Rivals, 109
+ペパーのブロスター, Arven’s Toedscruel, Destined Rivals, 110
+オーガポン かまどのめん, Cornerstone Mask Ogerpon, Destined Rivals, 111
+ロケット団のアーボ, Team Rocket’s Ekans, Destined Rivals, 112
+ロケット団のアーボック, Team Rocket’s Arbok, Destined Rivals, 113
+ロケット団のニドラン♀, Team Rocket’s Nidoran♀, Destined Rivals, 114
+ロケット団のニドリーナ, Team Rocket’s Nidorina, Destined Rivals, 115
+ロケット団のニドクイン, Team Rocket’s Nidoqueen, Destined Rivals, 116
+ロケット団のニドラン♂, Team Rocket’s Nidoran♂, Destined Rivals, 117
+ロケット団のニドリーノ, Team Rocket’s Nidorino, Destined Rivals, 118
+ロケット団のニドキングex, Team Rocket’s Nidoking ex, Destined Rivals, 119
+ロケット団のズバット, Team Rocket’s Zubat, Destined Rivals, 120
+ロケット団のゴルバット, Team Rocket’s Golbat, Destined Rivals, 121
+ロケット団のクロバットex, Team Rocket’s Crobat ex, Destined Rivals, 122
+ロケット団のベトベター, Team Rocket’s Grimer, Destined Rivals, 123
+ロケット団のベトベトン, Team Rocket’s Muk, Destined Rivals, 124
+ロケット団ドガース, Team Rocket’s Koffing, Destined Rivals, 125
+ロケット団のマタドガス, Team Rocket’s Weezing, Destined Rivals, 126
+ロケット団のヤミカラス, Team Rocket’s Murkrow, Destined Rivals, 127
+ロケット団ニューラ, Team Rocket’s Sneasel, Destined Rivals, 128
+シロナのミカルゲ, Cynthia’s Spiritomb, Destined Rivals, 129
+マリィのチョロネコ, Marnie’s Purrloin, Destined Rivals, 130
+マリィのレパルダス, Marnie’s Liepard, Destined Rivals, 131
+マリィのズルッグ, Marnie’s Scraggy, Destined Rivals, 132
+マリィのズルズキン, Marnie’s Scrafty, Destined Rivals, 133
+マリィのベロリンガ, Marnie’s Impidimp, Destined Rivals, 134
+マリィのペルシアン, Marnie’s Morgrem, Destined Rivals, 135
+マリィのオーロンゲex, Marnie’s Grimmsnarl ex, Destined Rivals, 136
+マリィのモルペコ, Marnie’s Morpeko, Destined Rivals, 137
+ペパーのマシヒブ, Arven’s Maschiff, Destined Rivals, 138
+ペパーのマフィティフex, Arven’s Mabosstiff ex, Destined Rivals, 139
+フォレトス, Forretress, Destined Rivals, 140
+エアームド, Skarmory, Destined Rivals, 141
+ダイゴのエアームド, Steven’s Skarmory, Destined Rivals, 142
+ダイゴのダンバル, Steven’s Beldum, Destined Rivals, 143
+ダイゴのメタング, Steven’s Metang, Destined Rivals, 144
+ダイゴのメタグロスex, Steven’s Metagross ex, Destined Rivals, 145
+ザマゼンタ, Zamazenta, Destined Rivals, 146
+ロケット団のコラッタ, Team Rocket’s Rattata, Destined Rivals, 147
+ロケット団のラッタ, Team Rocket’s Raticate, Destined Rivals, 148
+ロケット団のニャース, Team Rocket’s Meowth, Destined Rivals, 149
+ロケット団のペルシアンex, Team Rocket’s Persian ex, Destined Rivals, 150
+ガルーラ, Kangaskhan, Destined Rivals, 151
+ケンタロス, Tauros, Destined Rivals, 152
+ロケット団のポリゴン, Team Rocket’s Porygon, Destined Rivals, 153
+ロケット団のポリゴン2, Team Rocket’s Porygon2, Destined Rivals, 154
+ロケット団のポリゴンZ, Team Rocket’s Porygon-Z, Destined Rivals, 155
+スバメ, Taillow, Destined Rivals, 156
+オオスバメ, Swellow, Destined Rivals, 157
+ペパーのホシガリス, Arven’s Skwovet, Destined Rivals, 158
+ペパーのヨクバリス, Arven’s Greedent, Destined Rivals, 159
+イキリンコ, Squawkabilly, Destined Rivals, 160
+ペパーのサンドイッチ, Arven’s Sandwich, Destined Rivals, 161
+シロナのパワーウェイト, Cynthia’s Power Weight, Destined Rivals, 162
+MCの盛り上げ, Emcee’s Hype, Destined Rivals, 163
+エネルギーリサイクル, Energy Recycler, Destined Rivals, 164
+ヒビキの冒険, Ethan’s Adventure, Destined Rivals, 165
+いしのどうくつ, Granite Cave, Destined Rivals, 166
+ジャッジマン, Judge, Destined Rivals, 167
+すごいつりざお, Sacred Ash, Destined Rivals, 168
+スパイクタウンジム, Spikemuth Gym, Destined Rivals, 169
+ロケット団のアポロ, Team Rocket’s Archer, Destined Rivals, 170
+ロケット団のアテナ, Team Rocket’s Ariana, Destined Rivals, 171
+ロケット団のおじゃまロボ, Team Rocket’s Bother-Bot, Destined Rivals, 172
+ロケット団のファクトリー, Team Rocket’s Factory, Destined Rivals, 173
+ロケット団のサカキ, Team Rocket’s Giovanni, Destined Rivals, 174
+ロケット団のスーパーボール, Team Rocket’s Great Ball, Destined Rivals, 175
+ロケット団のラムダ, Team Rocket’s Petrel, Destined Rivals, 176
+ロケット団のランス, Team Rocket’s Proton, Destined Rivals, 177
+ロケット団のレシーバー, Team Rocket’s Transceiver, Destined Rivals, 178
+ロケット団のびっくりボム, Team Rocket’s Venture Bomb, Destined Rivals, 179
+ロケット団の監視塔, Team Rocket’s Watchtower, Destined Rivals, 180
+わざマシンマシン, TM Machine, Destined Rivals, 181
+ロケット団エネルギー, Team Rocket’s Energy, Destined Rivals, 182
+
+
+
+
+クルルミ, Sewaddle, White Flare, 001
+クルマユ, Swadloon, White Flare, 002
+ハハコモリ, Leavanny, White Flare, 003
+モンメン, Cottonee, White Flare, 004
+エルフーンex, Whimsicott ex, White Flare, 005
+シキジカ, Deerling, White Flare, 006
+メブキジカ, Sawsbuck, White Flare, 007
+チョボマキ, Shelmet, White Flare, 008
+アギルダー, Accelgor, White Flare, 009
+ビリジオン, Virizion, White Flare, 010
+ポカブ, Tepig, White Flare, 011
+チャオブー, Pignite, White Flare, 012
+エンブオー, Emboar, White Flare, 013
+バオップ, Pansear, White Flare, 014
+バオッキー, Simisear, White Flare, 015
+ヒトモシ, Litwick, White Flare, 016
+ランプラー, Lampent, White Flare, 017
+シャンデラ, Chandelure, White Flare, 018
+クイタラン, Heatmor, White Flare, 019
+レシラムex, Reshiram ex, White Flare, 020
+ミジュマル, Oshawott, White Flare, 021
+フタチマル, Dewott, White Flare, 022
+ダイケンキ, Samurott, White Flare, 023
+バスラオ, Basculin, White Flare, 024
+コアルヒー, Ducklett, White Flare, 025
+スワンナ, Swanna, White Flare, 026
+バニプッチ, Vanillite, White Flare, 027
+バニリッチ, Vanillish, White Flare, 028
+バイバニラ, Vanilluxe, White Flare, 029
+ケルディオex, Keldeo ex, White Flare, 030
+シママ, Blitzle, White Flare, 031
+ゼブライカ, Zebstrika, White Flare, 032
+バチュル, Joltik, White Flare, 033
+デンチュラ, Galvantula, White Flare, 034
+マッギョ, Stunfisk, White Flare, 035
+コロモリ, Woobat, White Flare, 036
+ココロモリ, Swoobat, White Flare, 037
+シンボラー, Sigilyph, White Flare, 038
+デスマス, Yamask, White Flare, 039
+デスカーン, Cofagrigus, White Flare, 040
+ゴチム, Gothita, White Flare, 041
+ゴチミル, Gothorita, White Flare, 042
+ゴチゼルゲネ, Gothitelle, White Flare, 043
+プルリル, Frillish, White Flare, 044
+ブルゲルゲルex, Jellicent ex, White Flare, 045
+ダンゴロ, Roggenrola, White Flare, 046
+ガントル, Boldore, White Flare, 047
+ギガイアス, Gigalith, White Flare, 048
+ダゲキ, Sawk, White Flare, 049
+アーケン, Archen, White Flare, 050
+アーケオス, Archeops, White Flare, 051
+コジョフー, Mienfoo, White Flare, 052
+コジョンド, Mienshao, White Flare, 053
+テラキオン, Terrakion, White Flare, 054
+チョロネコ, Purrloin, White Flare, 055
+レパルダス, Liepard, White Flare, 056
+ズルッグ, Scraggy, White Flare, 057
+ズルズキン, Scrafty, White Flare, 058
+ヤブクロン, Trubbish, White Flare, 059
+ダストダス, Garbodor, White Flare, 060
+ゾロア, Zorua, White Flare, 061
+ゾロアーク, Zoroark, White Flare, 062
+バルチャイ, Vullaby, White Flare, 063
+バルジーナ, Mandibuzz, White Flare, 064
+モノズ, Deino, White Flare, 065
+ジヘッド, Zweilous, White Flare, 066
+サザンドラex, Hydreigon ex, White Flare, 067
+テッシード, Ferroseed, White Flare, 068
+ナットレイ, Ferrothorn, White Flare, 069
+アイアント, Durant, White Flare, 070
+クリムガン, Druddigon, White Flare, 071
+ミネズミ, Patrat, White Flare, 072
+ミルホッグ, Watchog, White Flare, 073
+ヨーテリー, Lillipup, White Flare, 074
+ハーデリア, Herdier, White Flare, 075
+ムーランド, Stoutland, White Flare, 076
+バッフロンex, Bouffalant ex, White Flare, 077
+トルネロス, Tornadus, White Flare, 078
+古びたハネのカセキ, Antique Plume Fossil, White Flare, 079
+ブレイブバングル, Brave Bangle, White Flare, 080
+チェレン, Cheren, White Flare, 081
+エネルギー回収, Energy Retrieval, White Flare, 082
+カミツレ, Harlequin, White Flare, 083
+トウコ, Hilda, White Flare, 084
+ツールスクラッパー, Tool Scrapper, White Flare, 085
+イグニッションエネルギー, Ignition Energy, White Flare, 086
+
+
+ツタージャ, Snivy, Black Bolt, 001
+ジャノビー, Servine, Black Bolt, 002
+ジャローダex, Serperior ex, Black Bolt, 003
+ヤナップ, Pansage, Black Bolt, 004
+ヤナッキー, Simisage, Black Bolt, 005
+チュリネ, Petilil, Black Bolt, 006
+ドレディア, Lilligant, Black Bolt, 007
+マラカッチ, Maractus, Black Bolt, 008
+カブルモ, Karrablast, Black Bolt, 009
+タマゲタケ, Foongus, Black Bolt, 010
+モロバレル, Amoonguss, Black Bolt, 011
+ビクティニ, Victini, Black Bolt, 012
+ダルマッカ, Darumaka, Black Bolt, 013
+ヒヒダルマ, Darmanitan, Black Bolt, 014
+メラルバ, Larvesta, Black Bolt, 015
+ウルガモス, Volcarona, Black Bolt, 016
+ヒヤップ, Panpour, Black Bolt, 017
+ヒヤッキー, Simipour, Black Bolt, 018
+オタマロ, Tympole, Black Bolt, 019
+ガマガル, Palpitoad, Black Bolt, 020
+ガマゲロゲ, Seismitoad, Black Bolt, 021
+プロトーガ, Tirtouga, Black Bolt, 022
+アバゴーラ, Carracosta, Black Bolt, 023
+ママンボウ, Alomomola, Black Bolt, 024
+クマシュン, Cubchoo, Black Bolt, 025
+ツンベアー, Beartic, Black Bolt, 026
+フリージオ, Cryogonal, Black Bolt, 027
+キュレムex, Kyurem ex, Black Bolt, 028
+エモンガ, Emolga, Black Bolt, 029
+シビシラス, Tynamo, Black Bolt, 030
+シビビール, Eelektrik, Black Bolt, 031
+シビルドン, Eelektross, Black Bolt, 032
+ボルトロス, Thundurus, Black Bolt, 033
+ゼクロムex, Zekrom ex, Black Bolt, 034
+ムンナ, Munna, Black Bolt, 035
+ムシャーナ, Musharna, Black Bolt, 036
+ユニラン, Solosis, Black Bolt, 037
+ダブラン, Duosion, Black Bolt, 038
+ランクルス, Reuniclus, Black Bolt, 039
+リグレー, Elgyem, Black Bolt, 040
+オーベム, Beheeyem, Black Bolt, 041
+ゴビット, Golett, Black Bolt, 042
+ゴルーグ, Golurk, Black Bolt, 043
+メロエッタex, Meloetta ex, Black Bolt, 044
+モグリュー, Drilbur, Black Bolt, 045
+ドリュウズex, Excadrill ex, Black Bolt, 046
+ドッコラー, Timburr, Black Bolt, 047
+テッボーン, Gurdurr, Black Bolt, 048
+ローブシン, Conkeldurr, Black Bolt, 049
+ナゲキ, Throh, Black Bolt, 050
+イシズマイ, Dwebble, Black Bolt, 051
+イワパレス, Crustle, Black Bolt, 052
+ランドロス, Landorus, Black Bolt, 053
+フシデ, Venipede, Black Bolt, 054
+ホイーガ, Whirlipede, Black Bolt, 055
+ペンドラー, Scolipede, Black Bolt, 056
+メグロコ, Sandile, Black Bolt, 057
+ワルビル, Krokorok, Black Bolt, 058
+ワルビアル, Krookodile, Black Bolt, 059
+シュバルゴ, Escavalier, Black Bolt, 060
+ギアル, Klink, Black Bolt, 061
+ギギアル, Klang, Black Bolt, 062
+ギギギアル, Klinklang, Black Bolt, 063
+コマタナ, Pawniard, Black Bolt, 064
+キリキザン, Bisharp, Black Bolt, 065
+コバルオン, Cobalion, Black Bolt, 066
+ゲノセクトex, Genesect ex, Black Bolt, 067
+キバゴ, Axew, Black Bolt, 068
+オノンド, Fraxure, Black Bolt, 069
+オノノクス, Haxorus, Black Bolt, 070
+マメパト, Pidove, Black Bolt, 071
+ハトーボー, Tranquill, Black Bolt, 072
+ケンホロウ, Unfezant, Black Bolt, 073
+タブンネ, Audino, Black Bolt, 074
+チラーミィ, Minccino, Black Bolt, 075
+チラチーノ, Cinccino, Black Bolt, 076
+ワシボン, Rufflet, Black Bolt, 077
+ウォーグル, Braviary, Black Bolt, 078
+ふうせん, Air Balloon, Black Bolt, 079
+古びたフタのカセキ, Antique Cover Fossil, Black Bolt, 080
+エネルギーコイン, Energy Coin, Black Bolt, 081
+マコモ, Fennel, Black Bolt, 082
+Nの筋書き, N’s Plan, Black Bolt, 083
+ポケギア3.0, Pokégear 3.0, Black Bolt, 084
+博士の研究, Professor’s Research, Black Bolt, 085
+プリズムエネルギー, Prism Energy, Black Bolt, 086
+
+
+
+
+フシギダネ, Bulbasaur, Mega Evolution, 001
+フシギソウ, Ivysaur, Mega Evolution, 002
+メガフシギバナex, Mega Venusaur ex, Mega Evolution, 003
+タマタマ, Exeggcute, Mega Evolution, 004
+ナッシー, Exeggutor, Mega Evolution, 005
+モンジャラ, Tangela, Mega Evolution, 006
+モジャンボ, Tangrowth, Mega Evolution, 007
+チコリータ, Chikorita, Mega Evolution, 008
+ベイリーフ, Bayleef, Mega Evolution, 009
+メガニウム, Meganium, Mega Evolution, 010
+ツボツボ, Shuckle, Mega Evolution, 011
+セレビィ, Celebi, Mega Evolution, 012
+タネボー, Seedot, Mega Evolution, 013
+コノハナ, Nuzleaf, Mega Evolution, 014
+ダーテング, Shiftry, Mega Evolution, 015
+ツチニン, Nincada, Mega Evolution, 016
+テッカニン, Ninjask, Mega Evolution, 017
+ダダリン, Dhelmise, Mega Evolution, 018
+ロコン, Vulpix, Mega Evolution, 019
+キュウコン, Ninetales, Mega Evolution, 020
+ドンメル, Numel, Mega Evolution, 021
+メガバクーダex, Mega Camerupt ex, Mega Evolution, 022
+シシコ, Litleo, Mega Evolution, 023
+カエンジシ, Pyroar, Mega Evolution, 024
+ボルケニオン, Volcanion, Mega Evolution, 025
+ヒバニー, Scorbunny, Mega Evolution, 026
+ラビフット, Raboot, Mega Evolution, 027
+エースバーン, Cinderace, Mega Evolution, 028
+ヤクデ, Sizzlipede, Mega Evolution, 029
+マルヤクデ, Centiskorch, Mega Evolution, 030
+イーユイ, Chi-Yu, Mega Evolution, 031
+マンタイン, Mantine, Mega Evolution, 032
+ヘイガニ, Corphish, Mega Evolution, 033
+カイオーガ, Kyogre, Mega Evolution, 034
+ユキカブリ, Snover, Mega Evolution, 035
+メガユキノオーex, Mega Abomasnow ex, Mega Evolution, 036
+ウデッポウ, Clauncher, Mega Evolution, 037
+ブロスター, Clawitzer, Mega Evolution, 038
+メッソン, Sobble, Mega Evolution, 039
+ジメレオン, Drizzile, Mega Evolution, 040
+インテレオン, Inteleon, Mega Evolution, 041
+ユキハミ, Snom, Mega Evolution, 042
+モスノウ, Frosmoth, Mega Evolution, 043
+コオリッポ, Eiscue, Mega Evolution, 044
+コイル, Magnemite, Mega Evolution, 045
+レアコイル, Magneton, Mega Evolution, 046
+ジバコイル, Magnezone, Mega Evolution, 047
+ライコウ, Raikou, Mega Evolution, 048
+ラクライ, Electrike, Mega Evolution, 049
+メガライボルトex, Mega Manectric ex, Mega Evolution, 050
+パチリス, Pachirisu, Mega Evolution, 051
+エリキテル, Helioptile, Mega Evolution, 052
+エレザード, Heliolisk, Mega Evolution, 053
+ケーシィ, Abra, Mega Evolution, 054
+ユンゲラー, Kadabra, Mega Evolution, 055
+フーディン, Alakazam, Mega Evolution, 056
+ルージュラ, Jynx, Mega Evolution, 057
+ラルトス, Ralts, Mega Evolution, 058
+キルリア, Kirlia, Mega Evolution, 059
+メガサーナイトex, Mega Gardevoir ex, Mega Evolution, 060
+ヌケニン, Shedinja, Mega Evolution, 061
+バネブー, Spoink, Mega Evolution, 062
+ブーピッグ, Grumpig, Mega Evolution, 063
+ゼルネアス, Xerneas, Mega Evolution, 064
+ボチ, Greavard, Mega Evolution, 065
+ハカドッグ, Houndstone, Mega Evolution, 066
+コレクレー, Gimmighoul, Mega Evolution, 067
+サンド, Sandshrew, Mega Evolution, 068
+サンドパン, Sandslash, Mega Evolution, 069
+イワーク, Onix, Mega Evolution, 070
+バルキー, Tyrogue, Mega Evolution, 071
+マクノシタ, Makuhita, Mega Evolution, 072
+ハリテヤマ, Hariyama, Mega Evolution, 073
+ルナトーン, Lunatone, Mega Evolution, 074
+ソルロック, Solrock, Mega Evolution, 075
+リオル, Riolu, Mega Evolution, 076
+メガルカリオex, Mega Lucario ex, Mega Evolution, 077
+グレッグル, Croagunk, Mega Evolution, 078
+ドクロッグ, Toxicroak, Mega Evolution, 079
+マーシャドー, Marshadow, Mega Evolution, 080
+イシヘンジン, Stonjourner, Mega Evolution, 081
+コジオ, Nacli, Mega Evolution, 082
+ジオヅム, Naclstack, Mega Evolution, 083
+キョジオーン, Garganacl, Mega Evolution, 084
+シザリガー, Crawdaunt, Mega Evolution, 085
+メガアブソルex, Mega Absol ex, Mega Evolution, 086
+ミカルゲ, Spiritomb, Mega Evolution, 087
+イベルタル, Yveltal, Mega Evolution, 088
+クスネ, Nickit, Mega Evolution, 089
+フォクスライ, Thievul, Mega Evolution, 090
+タンドン, Shroodle, Mega Evolution, 091
+タギングル, Grafaiai, Mega Evolution, 092
+ハガネール, Steelix, Mega Evolution, 093
+メガクチートex, Mega Mawile ex, Mega Evolution, 094
+ディアルガ, Dialga, Mega Evolution, 095
+カヌチャン, Tinkatink, Mega Evolution, 096
+ナカヌチャン, Tinkatuff, Mega Evolution, 097
+デカヌチャン, Tinkaton, Mega Evolution, 098
+サーフゴー, Gholdengo, Mega Evolution, 099
+メガラティアスex, Mega Latias ex, Mega Evolution, 100
+ラティオス, Latios, Mega Evolution, 101
+オニスズメ, Spearow, Mega Evolution, 102
+オニドリル, Fearow, Mega Evolution, 103
+メガガルーラex, Mega Kangaskhan ex, Mega Evolution, 104
+デリバード, Delibird, Mega Evolution, 105
+ミルタンク, Miltank, Mega Evolution, 106
+ミミロル, Buneary, Mega Evolution, 107
+ミミロップ, Lopunny, Mega Evolution, 108
+ヤングース, Yungoos, Mega Evolution, 109
+デカグース, Gumshoos, Mega Evolution, 110
+ヌイコグマ, Stufful, Mega Evolution, 111
+キテルグマ, Bewear, Mega Evolution, 112
+アセロラのいたずら, Acerola’s Mischief, Mega Evolution, 113
+ボスの指令, Boss’s Orders, Mega Evolution, 114
+エネルギーつけかえ, Energy Switch, Mega Evolution, 115
+ファイトゴング, Fighting Gong, Mega Evolution, 116
+活力の森, Forest of Vitality, Mega Evolution, 117
+アイアンディフェンダー, Iron Defender, Mega Evolution, 118
+リーリエの決心, Lillie’s Determination, Mega Evolution, 119
+マチスの取引, Lt. Surge’s Bargain, Mega Evolution, 120
+メガシグナル, Mega Signal, Mega Evolution, 121
+ミステリーガーデン, Mystery Garden, Mega Evolution, 122
+ポケモンセンターのお姉さん, Pokémon Center Lady, Mega Evolution, 123
+パワープロテイン, Premium Power Pro, Mega Evolution, 124
+ふしぎなアメ, Rare Candy, Mega Evolution, 125
+むしよけスプレー, Repel, Mega Evolution, 126
+危ない廃墟, Risky Ruins, Mega Evolution, 127
+あやしい時計, Strange Timepiece, Mega Evolution, 128
+なみのりビーチ, Surfing Beach, Mega Evolution, 129
+いれかえカート, Switch, Mega Evolution, 130
+ハイパーボール, Ultra Ball, Mega Evolution, 131
+マツバの確信, Wally’s Compassion, Mega Evolution, 132
+
+
+
+
+ナゾノクサ, Oddish, Phantasmal Flames, 001
+クサイハナ, Gloom, Phantasmal Flames, 002
+ラフレシア, Vileplume, Phantasmal Flames, 003
+メガヘラクロスex, Mega Heracross ex, Phantasmal Flames, 004
+ハスボー, Lotad, Phantasmal Flames, 005
+ハスブレロ, Lombre, Phantasmal Flames, 006
+ルンパッパ, Ludicolo, Phantasmal Flames, 007
+ゲノセクト, Genesect, Phantasmal Flames, 008
+マメバッタ, Nymble, Phantasmal Flames, 009
+エクスレッグ, Lokix, Phantasmal Flames, 010
+ヒトカゲ, Charmander, Phantasmal Flames, 011
+リザード, Charmeleon, Phantasmal Flames, 012
+メガリザードンX ex, Mega Charizard X ex, Phantasmal Flames, 013
+ファイヤー, Moltres, Phantasmal Flames, 014
+ダルマッカ, Darumaka, Phantasmal Flames, 015
+ヒヒダルマ, Darmanitan, Phantasmal Flames, 016
+レシラム, Reshiram, Phantasmal Flames, 017
+オドリドリex, Oricorio ex, Phantasmal Flames, 018
+カルボウ, Charcadet, Phantasmal Flames, 019
+ソウブレイズ, Ceruledge, Phantasmal Flames, 020
+パウワウ, Seel, Phantasmal Flames, 021
+ジュゴン, Dewgong, Phantasmal Flames, 022
+ウリムー, Swinub, Phantasmal Flames, 023
+イノムー, Piloswine, Phantasmal Flames, 024
+マンムー, Mamoswine, Phantasmal Flames, 025
+スイクン, Suicune, Phantasmal Flames, 026
+ポッチャマ, Piplup, Phantasmal Flames, 027
+ポッタイシ, Prinplup, Phantasmal Flames, 028
+ロトムex, Rotom ex, Phantasmal Flames, 029
+ワンパチ, Yamper, Phantasmal Flames, 030
+パルスワン, Boltund, Phantasmal Flames, 031
+パモ, Pawmi, Phantasmal Flames, 032
+パモット, Pawmo, Phantasmal Flames, 033
+パーモット, Pawmot, Phantasmal Flames, 034
+ムウマ, Misdreavus, Phantasmal Flames, 035
+ムウマージex, Mismagius ex, Phantasmal Flames, 036
+ブルー, Snubbull, Phantasmal Flames, 037
+グランブル, Granbull, Phantasmal Flames, 038
+クレセリア, Cresselia, Phantasmal Flames, 039
+メロエッタ, Meloetta, Phantasmal Flames, 040
+メガディアンシーex, Mega Diancie ex, Phantasmal Flames, 041
+ミミッキュ, Mimikyu, Phantasmal Flames, 042
+マホミル, Milcery, Phantasmal Flames, 043
+マホイップ, Alcremie, Phantasmal Flames, 044
+ザシアン, Zacian, Phantasmal Flames, 045
+アノクサ, Bramblin, Phantasmal Flames, 046
+アノホラグサ, Brambleghast, Phantasmal Flames, 047
+パルデアケンタロス, Paldean Tauros, Phantasmal Flames, 048
+グライガー, Gligar, Phantasmal Flames, 049
+グライオン, Gliscor, Phantasmal Flames, 050
+ナックラー, Trapinch, Phantasmal Flames, 051
+ビブラーバ, Vibrava, Phantasmal Flames, 052
+フライゴン, Flygon, Phantasmal Flames, 053
+ゴース, Gastly, Phantasmal Flames, 054
+ゴースト, Haunter, Phantasmal Flames, 055
+メガゲンガーex, Mega Gengar ex, Phantasmal Flames, 056
+ヤミカラス, Murkrow, Phantasmal Flames, 057
+ドンカラス, Honchkrow, Phantasmal Flames, 058
+ヤミラミ, Sableye, Phantasmal Flames, 059
+キバニア, Carvanha, Phantasmal Flames, 060
+メガサメハダーex, Mega Sharpedo ex, Phantasmal Flames, 061
+ハブネーク, Seviper, Phantasmal Flames, 062
+アブソル, Absol, Phantasmal Flames, 063
+メグロコ, Sandile, Phantasmal Flames, 064
+ワルビル, Krokorok, Phantasmal Flames, 065
+ワルビアル, Krookodile, Phantasmal Flames, 066
+エレズン, Toxel, Phantasmal Flames, 067
+ストリンダー, Toxtricity, Phantasmal Flames, 068
+ムゲンダイナ, Eternatus, Phantasmal Flames, 069
+エンペルトex, Empoleon ex, Phantasmal Flames, 070
+ドーミラー, Bronzor, Phantasmal Flames, 071
+ドータクン, Bronzong, Phantasmal Flames, 072
+トゲデマル, Togedemaru, Phantasmal Flames, 073
+ジュラルドン, Duraludon, Phantasmal Flames, 074
+ブリジュラス, Archaludon, Phantasmal Flames, 075
+プリン, Jigglypuff, Phantasmal Flames, 076
+プクリン, Wigglytuff, Phantasmal Flames, 077
+エイパム, Aipom, Phantasmal Flames, 078
+エテボース, Ambipom, Phantasmal Flames, 079
+ドーブル, Smeargle, Phantasmal Flames, 080
+ジグザグマ, Zigzagoon, Phantasmal Flames, 081
+マッスグマ, Linoone, Phantasmal Flames, 082
+ミミロル, Buneary, Phantasmal Flames, 083
+メガミミロップex, Mega Lopunny ex, Phantasmal Flames, 084
+バトルコロシアム, Battle Cage, Phantasmal Flames, 085
+ヒートバーナー, Blowtorch, Phantasmal Flames, 086
+ヒカリ, Dawn, Phantasmal Flames, 087
+めまいの谷, Dizzying Valley, Phantasmal Flames, 088
+ひふきやろう, Firebreather, Phantasmal Flames, 089
+ギーマの一手, Grimsley’s Move, Phantasmal Flames, 090
+ジャンボアイス, Jumbo Ice Cream, Phantasmal Flames, 091
+パンクメット, Punk Helmet, Phantasmal Flames, 092
+せいなるおまもり, Sacred Charm, Phantasmal Flames, 093
+ワンダーパッチ, Wondrous Patch, Phantasmal Flames, 094
+
+
+
+
+エリカのナゾノクサ, Erika’s Oddish, Ascended Heroes, 001
+エリカのクサイハナ, Erika’s Gloom, Ascended Heroes, 002
+エリカのラフレシアex, Erika’s Vileplume ex, Ascended Heroes, 003
+エリカのマダツボミ, Erika’s Bellsprout, Ascended Heroes, 004
+エリカのウツドン, Erika’s Weepinbell, Ascended Heroes, 005
+エリカのウツボット, Erika’s Victreebel, Ascended Heroes, 006
+エリカのモンジャラ, Erika’s Tangela, Ascended Heroes, 007
+チコリータ, Chikorita, Ascended Heroes, 008
+ベイリーフ, Bayleef, Ascended Heroes, 009
+メガメガニウムex, Mega Meganium ex, Ascended Heroes, 010
+ケムッソ, Wurmple, Ascended Heroes, 011
+カラサリス, Silcoon, Ascended Heroes, 012
+アゲハント, Beautifly, Ascended Heroes, 013
+マユルド, Cascoon, Ascended Heroes, 014
+ドクケイル, Dustox, Ascended Heroes, 015
+スボミー, Budew, Ascended Heroes, 016
+アゴジムシ, Grubbin, Ascended Heroes, 017
+ロケット団のタマンチュラ, Team Rocket’s Tarountula, Ascended Heroes, 018
+ロケット団のワナイダー, Team Rocket’s Spidops, Ascended Heroes, 019
+ヒトカゲ, Charmander, Ascended Heroes, 020
+リザード, Charmeleon, Ascended Heroes, 021
+メガリザードンY ex, Mega Charizard Y ex, Ascended Heroes, 022
+ヒビキのマグマッグ, Ethan’s Slugma, Ascended Heroes, 023
+ヒビキのマグカルゴ, Ethan’s Magcargo, Ascended Heroes, 024
+エンテイ, Entei, Ascended Heroes, 025
+ヒビキのホウオウex, Ethan’s Ho-Oh ex, Ascended Heroes, 026
+ドンメル, Numel, Ascended Heroes, 027
+バクーダ, Camerupt, Ascended Heroes, 028
+ポカブ, Tepig, Ascended Heroes, 029
+チャオブー, Pignite, Ascended Heroes, 030
+メガエンブオーex, Mega Emboar ex, Ascended Heroes, 031
+Nのダルマッカ, N’s Darumaka, Ascended Heroes, 032
+Nのヒヒダルマ, N’s Darmanitan, Ascended Heroes, 033
+ヤトウモリ, Salandit, Ascended Heroes, 034
+エンニュート, Salazzle, Ascended Heroes, 035
+ヒバニー, Scorbunny, Ascended Heroes, 036
+ラビフット, Raboot, Ascended Heroes, 037
+エースバーンex, Cinderace ex, Ascended Heroes, 038
+コダック, Psyduck, Ascended Heroes, 039
+ゴルダック, Golduck, Ascended Heroes, 040
+ワニノコ, Totodile, Ascended Heroes, 041
+アリゲイツ, Croconaw, Ascended Heroes, 042
+メガオーダイルex, Mega Feraligatr ex, Ascended Heroes, 043
+ニューラ, Sneasel, Ascended Heroes, 044
+マニューラ, Weavile, Ascended Heroes, 045
+ユキワラシ, Snorunt, Ascended Heroes, 046
+メガユキメノコex, Mega Froslass ex, Ascended Heroes, 047
+レジアイスex, Regice ex, Ascended Heroes, 048
+Nのバニプッチ, N’s Vanillite, Ascended Heroes, 049
+Nのバニリッチ, N’s Vanillish, Ascended Heroes, 050
+Nのバイバニラ, N’s Vanilluxe, Ascended Heroes, 051
+ユキハミ, Snom, Ascended Heroes, 052
+モスノウ, Frosmoth, Ascended Heroes, 053
+ブリザポス, Glastrier, Ascended Heroes, 054
+ピカチュウ, Pikachu, Ascended Heroes, 055
+ライチュウ, Raichu, Ascended Heroes, 056
+ピカチュウex, Pikachu ex, Ascended Heroes, 057
+ビリリダマex, Voltorb ex, Ascended Heroes, 058
+シビシラス, Tynamo, Ascended Heroes, 059
+シビビール, Eelektrik, Ascended Heroes, 060
+メガシビルドンex, Mega Eelektross ex, Ascended Heroes, 061
+マッギョ, Stunfisk, Ascended Heroes, 062
+エリキテル, Helioptile, Ascended Heroes, 063
+エレザード, Heliolisk, Ascended Heroes, 064
+デンヂムシ, Charjabug, Ascended Heroes, 065
+クワガノン, Vikavolt, Ascended Heroes, 066
+カプ・コケコ, Tapu Koko, Ascended Heroes, 067
+ホップのバチンウニex, Hop’s Pincurchin ex, Ascended Heroes, 068
+ナンジャモのズピカ, Iono’s Tadbulb, Ascended Heroes, 069
+ナンジャモのハラバリーex, Iono’s Bellibolt ex, Ascended Heroes, 070
+ナンジャモのカイデン, Iono’s Wattrel, Ascended Heroes, 071
+ナンジャモのタイカイデン, Iono’s Kilowattrel, Ascended Heroes, 072
+ミライドンex, Miraidon ex, Ascended Heroes, 073
+ピッピ, Clefairy, Ascended Heroes, 074
+ピクシー, Clefable, Ascended Heroes, 075
+リーリエのピッピex, Lillie’s Clefairy ex, Ascended Heroes, 076
+ロケット団のタマタマ, Team Rocket’s Exeggcute, Ascended Heroes, 077
+ロケット団のナッシー, Team Rocket’s Exeggutor, Ascended Heroes, 078
+ロケット団のミュウツーex, Team Rocket’s Mewtwo ex, Ascended Heroes, 079
+トゲピー, Togepi, Ascended Heroes, 080
+トゲチック, Togetic, Ascended Heroes, 081
+トゲキッス, Togekiss, Ascended Heroes, 082
+マリル, Marill, Ascended Heroes, 083
+マリルリex, Azumarill ex, Ascended Heroes, 084
+ムウマ, Misdreavus, Ascended Heroes, 085
+ムウマージ, Mismagius, Ascended Heroes, 086
+ラルトス, Ralts, Ascended Heroes, 087
+キルリア, Kirlia, Ascended Heroes, 088
+メガサーナイトex, Mega Gardevoir ex, Ascended Heroes, 089
+カゲボウズ, Shuppet, Ascended Heroes, 090
+ジュペッタ, Banette, Ascended Heroes, 091
+ロトム, Rotom, Ascended Heroes, 092
+ペロッパフ, Swirlix, Ascended Heroes, 093
+ペロリーム, Slurpuff, Ascended Heroes, 094
+ホップのボクレー, Hop’s Phantump, Ascended Heroes, 095
+ホップのオーロット, Hop’s Trevenant, Ascended Heroes, 096
+ロケット団のミミッキュ, Team Rocket’s Mimikyu, Ascended Heroes, 097
+レイスポス, Spectrier, Ascended Heroes, 098
+マシマシラ, Munkidori, Ascended Heroes, 099
+ロケット団のディグダ, Team Rocket’s Diglett, Ascended Heroes, 100
+ロケット団のダグトリオ, Team Rocket’s Dugtrio, Ascended Heroes, 101
+カポエラー, Hitmontop, Ascended Heroes, 102
+アサナン, Meditite, Ascended Heroes, 103
+チャーレム, Medicham, Ascended Heroes, 104
+ルナトーン, Lunatone, Ascended Heroes, 105
+ソルロック, Solrock, Ascended Heroes, 106
+レジロックex, Regirock ex, Ascended Heroes, 107
+グラードン, Groudon, Ascended Heroes, 108
+シロナのフカマル, Cynthia’s Gible, Ascended Heroes, 109
+シロナのガバイト, Cynthia’s Gabite, Ascended Heroes, 110
+シロナのガブリアスex, Cynthia’s Garchomp ex, Ascended Heroes, 111
+リオル, Riolu, Ascended Heroes, 112
+メガルカリオex, Mega Lucario ex, Ascended Heroes, 113
+マッギョex, Stunfisk ex, Ascended Heroes, 114
+ヤンチャム, Pancham, Ascended Heroes, 115
+メガルチャブルex, Mega Hawlucha ex, Ascended Heroes, 116
+メレシー, Carbink, Ascended Heroes, 117
+タンドン, Rolycoly, Ascended Heroes, 118
+トロッゴン, Carkol, Ascended Heroes, 119
+セキタンザン, Coalossal, Ascended Heroes, 120
+コライドンex, Koraidon ex, Ascended Heroes, 121
+イイネイヌ, Okidogi, Ascended Heroes, 122
+ゴース, Gastly, Ascended Heroes, 123
+ゴースト, Haunter, Ascended Heroes, 124
+メガゲンガーex, Mega Gengar ex, Ascended Heroes, 125
+ロケット団のヤミカラス, Team Rocket’s Murkrow, Ascended Heroes, 126
+ロケット団のドンカラス, Team Rocket’s Honchkrow, Ascended Heroes, 127
+ポチエナ, Poochyena, Ascended Heroes, 128
+グラエナ, Mightyena, Ascended Heroes, 129
+ガラルジグザグマ, Galarian Zigzagoon, Ascended Heroes, 130
+ガラルマッスグマ, Galarian Linoone, Ascended Heroes, 131
+ガラルタチフサグマ, Galarian Obstagoon, Ascended Heroes, 132
+シロナのミカルゲ, Cynthia’s Spiritomb, Ascended Heroes, 133
+ズルッグ, Scraggy, Ascended Heroes, 134
+メガズルズキンex, Mega Scrafty ex, Ascended Heroes, 135
+Nのゾロア, N’s Zorua, Ascended Heroes, 136
+Nのゾロアークex, N’s Zoroark ex, Ascended Heroes, 137
+バルチャイ, Vullaby, Ascended Heroes, 138
+バルジーナex, Mandibuzz ex, Ascended Heroes, 139
+ゴロンダ, Pangoro, Ascended Heroes, 140
+フーパ, Hoopa, Ascended Heroes, 141
+キチキギスex, Fezandipiti ex, Ascended Heroes, 142
+モモワロウ, Pecharunt, Ascended Heroes, 143
+クチート, Mawile, Ascended Heroes, 144
+レジスチルex, Registeel ex, Ascended Heroes, 145
+コマタナ, Pawniard, Ascended Heroes, 146
+キリキザン, Bisharp, Ascended Heroes, 147
+ドドゲザン, Kingambit, Ascended Heroes, 148
+トゲデマルex, Togedemaru ex, Ascended Heroes, 149
+ミニリュウ, Dratini, Ascended Heroes, 150
+ハクリュー, Dragonair, Ascended Heroes, 151
+メガカイリューex, Mega Dragonite ex, Ascended Heroes, 152
+レックウザ, Rayquaza, Ascended Heroes, 153
+Nのレシラム, N’s Reshiram, Ascended Heroes, 154
+Nのゼクロム, N’s Zekrom, Ascended Heroes, 155
+オンバット, Noibat, Ascended Heroes, 156
+オンバーン, Noivern, Ascended Heroes, 157
+ドラメシヤ, Dreepy, Ascended Heroes, 158
+ドロンチ, Drakloak, Ascended Heroes, 159
+ドラパルトex, Dragapult ex, Ascended Heroes, 160
+ロケット団のニャース, Team Rocket’s Meowth, Ascended Heroes, 161
+ロケット団のガルーラex, Team Rocket’s Kangaskhan ex, Ascended Heroes, 162
+アオキのノコッチ, Larry’s Dunsparce, Ascended Heroes, 163
+アオキのノココッチex, Larry’s Dudunsparce ex, Ascended Heroes, 164
+エネコ, Skitty, Ascended Heroes, 165
+エネコロロ, Delcatty, Ascended Heroes, 166
+ザングースex, Zangoose ex, Ascended Heroes, 167
+アオキのムックル, Larry’s Starly, Ascended Heroes, 168
+アオキのムクバード, Larry’s Staravia, Ascended Heroes, 169
+アオキのムクホーク, Larry’s Staraptor, Ascended Heroes, 170
+スピンロトム, Fan Rotom, Ascended Heroes, 171
+メガタブンネex, Mega Audino ex, Ascended Heroes, 172
+アオキのワシボン, Larry’s Rufflet, Ascended Heroes, 173
+アオキのウォーグル, Larry’s Braviary, Ascended Heroes, 174
+アオキのネッコアラ, Larry’s Komala, Ascended Heroes, 175
+ジジーロン, Drampa, Ascended Heroes, 176
+ホップのウッウ, Hop’s Cramorant, Ascended Heroes, 177
+テラパゴス, Terapagos, Ascended Heroes, 178
+テラパゴスex, Terapagos ex, Ascended Heroes, 179
+アセロラのいたずら, Acerola’s Mischief, Ascended Heroes, 180
+ふうせん, Air Balloon, Ascended Heroes, 181
+ヘレナとバーベナ, Anthea & Concordia, Ascended Heroes, 182
+ボスの指令, Boss’s Orders, Ascended Heroes, 183
+なかよしポフィン, Buddy-Buddy Poffin, Ascended Heroes, 184
+カナリィ, Canari, Ascended Heroes, 185
+カウンターゲイン, Counter Gain, Ascended Heroes, 186
+ファイトゴング, Fighting Gong, Ascended Heroes, 187
+活力の森, Forest of Vitality, Ascended Heroes, 188
+ガラスのラッパ, Glass Trumpet, Ascended Heroes, 189
+アイリスの闘志, Iris’s Fighting Spirit, Ascended Heroes, 190
+でんきだま, Light Ball, Ascended Heroes, 191
+リーリエの決心, Lillie’s Determination, Ascended Heroes, 192
+メガシグナル, Mega Signal, Ascended Heroes, 193
+ミステリーガーデン, Mystery Garden, Ascended Heroes, 194
+Nのポイントアップ, N’s PP Up, Ascended Heroes, 195
+夜のタンカ, Night Stretcher, Ascended Heroes, 196
+夜の採掘場, Nighttime Mine, Ascended Heroes, 197
+ポケパッド, Poké Pad, Ascended Heroes, 198
+パワープロテイン, Premium Power Pro, Ascended Heroes, 199
+サーファー, Surfer, Ascended Heroes, 200
+ロケット団のアポロ, Team Rocket’s Archer, Ascended Heroes, 201
+ロケット団のアテナ, Team Rocket’s Ariana, Ascended Heroes, 202
+ロケット団のファクトリー, Team Rocket’s Factory, Ascended Heroes, 203
+ロケット団のサカキ, Team Rocket’s Giovanni, Ascended Heroes, 204
+ロケット団のスーパーボール, Team Rocket’s Great Ball, Ascended Heroes, 205
+ロケット団のさいみん装置, Team Rocket’s Hypnotizer, Ascended Heroes, 206
+ロケット団のラムダ, Team Rocket’s Petrel, Ascended Heroes, 207
+ロケット団のランス, Team Rocket’s Proton, Ascended Heroes, 208
+ロケット団のレシーバー, Team Rocket’s Transceiver, Ascended Heroes, 209
+ロケット団の監視塔, Team Rocket’s Watchtower, Ascended Heroes, 210
+ぶあついうろこ, Thick Scale, Ascended Heroes, 211
+ツールスクラッパー, Tool Scrapper, Ascended Heroes, 212
+ハイパーボール, Ultra Ball, Ascended Heroes, 213
+ガイ, Urbain, Ascended Heroes, 214
+ウエイトレス, Waitress, Ascended Heroes, 215
+プリズムエネルギー, Prism Energy, Ascended Heroes, 216
+ロケット団エネルギー, Team Rocket’s Energy, Ascended Heroes, 217
+
+
+
+
+イトマル, Spinarak, Perfect Order, 001
+アリアドス, Ariados, Perfect Order, 002
+シェイミ, Shaymin, Perfect Order, 003
+ツタージャ, Snivy, Perfect Order, 004
+ジャノビー, Servine, Perfect Order, 005
+ジャローダ, Serperior, Perfect Order, 006
+コフキムシ, Scatterbug, Perfect Order, 007
+コフーライ, Spewpa, Perfect Order, 008
+ビビヨン, Vivillon, Perfect Order, 009
+モクロー, Rowlet, Perfect Order, 010
+フクスロー, Dartrix, Perfect Order, 011
+ジュナイパーex, Decidueye ex, Perfect Order, 012
+ヒノヤコマ, Fletchinder, Perfect Order, 013
+ファイアロー, Talonflame, Perfect Order, 014
+ヤトウモリ, Salandit, Perfect Order, 015
+エンニュートex, Salazzle ex, Perfect Order, 016
+バクガメス, Turtonator, Perfect Order, 017
+パウワウ, Seel, Perfect Order, 018
+ジュゴン, Dewgong, Perfect Order, 019
+ヒトデマン, Staryu, Perfect Order, 020
+メガスターミーex, Mega Starmie ex, Perfect Order, 021
+ラプラスex, Lapras ex, Perfect Order, 022
+アマルス, Amaura, Perfect Order, 023
+アマルルガ, Aurorus, Perfect Order, 024
+ボルケニオン, Volcanion, Perfect Order, 025
+コリンク, Shinx, Perfect Order, 026
+ルクシオ, Luxio, Perfect Order, 027
+レントラー, Luxray, Perfect Order, 028
+デデンネ, Dedenne, Perfect Order, 029
+ピッピ, Clefairy, Perfect Order, 030
+メガピクシーex, Mega Clefable ex, Perfect Order, 031
+クチート, Mawile, Perfect Order, 032
+ニャスパー, Espurr, Perfect Order, 033
+ニャオニクス, Meowstic, Perfect Order, 034
+シュシュプ, Spritzee, Perfect Order, 035
+フレフワン, Aromatisse, Perfect Order, 036
+ノズパス, Nosepass, Perfect Order, 037
+ダイノーズ, Probopass, Perfect Order, 038
+ヒポポタス, Hippopotas, Perfect Order, 039
+カバルドン, Hippowdon, Perfect Order, 040
+ランドロス, Landorus, Perfect Order, 041
+カメテテ, Binacle, Perfect Order, 042
+ガメノデス, Barbaracle, Perfect Order, 043
+チゴラス, Tyrunt, Perfect Order, 044
+ガチゴラス, Tyrantrum, Perfect Order, 045
+ルチャブル, Hawlucha, Perfect Order, 046
+メガジガルデex, Mega Zygarde ex, Perfect Order, 047
+ゴース, Gastly, Perfect Order, 048
+ゴースト, Haunter, Perfect Order, 049
+ゲンガー, Gengar, Perfect Order, 050
+スコルピ, Skorupi, Perfect Order, 051
+ドラピオン, Drapion, Perfect Order, 052
+イベルタルex, Yveltal ex, Perfect Order, 053
+パオジアン, Chien-Pao, Perfect Order, 054
+メガエアームドex, Mega Skarmory ex, Perfect Order, 055
+ヒトツキ, Honedge, Perfect Order, 056
+ニダンギル, Doublade, Perfect Order, 057
+ギルガルド, Aegislash, Perfect Order, 058
+クレッフィ, Klefki, Perfect Order, 059
+コラッタ, Rattata, Perfect Order, 060
+ラッタ, Raticate, Perfect Order, 061
+ニャースex, Meowth ex, Perfect Order, 062
+カビゴン, Snorlax, Perfect Order, 063
+ホルビー, Bunnelby, Perfect Order, 064
+ホルード, Diggersby, Perfect Order, 065
+ヤヤコマ, Fletchling, Perfect Order, 066
+トリミアン, Furfrou, Perfect Order, 067
+古びたアゴのカセキ, Antique Jaw Fossil, Perfect Order, 068
+古びたヒレのカセキ, Antique Sail Fossil, Perfect Order, 069
+コアメモリ, Core Memory, Perfect Order, 070
+クラッシュハンマー, Crushing Hammer, Perfect Order, 071
+エネルギー転送, Energy Search, Perfect Order, 072
+エネはたき, Energy Swatter, Perfect Order, 073
+あなあけスコップ, Hole-Digging Shovel, Perfect Order, 074
+ユカリ, Jacinthe, Perfect Order, 075
+ジャッジマン, Judge, Perfect Order, 076
+ミアレシティ, Lumiose City, Perfect Order, 077
+ミアレガレット, Lumiose Galette, Perfect Order, 078
+ピュール, Naveen, Perfect Order, 079
+モンスターボール, Poké Ball, Perfect Order, 080
+ポケパッド, Poké Pad, Perfect Order, 081
+ポケモンキャッチャー, Pokémon Catcher, Perfect Order, 082
+キズぐすり, Potion, Perfect Order, 083
+メイのはげまし, Rosa’s Encouragement, Perfect Order, 084
+タラゴン, Tarragon, Perfect Order, 085
+グロウ草エネルギー, Growing Energy, Perfect Order, 086
+ロック闘エネルギー, Rocky Energy, Perfect Order, 087
+テレパス超エネルギー, Telepathic Energy, Perfect Order, 088
+
+
+
+
+ビードル, Weedle, Chaos Rising, 001
+コクーン, Kakuna, Chaos Rising, 002
+スピアーex, Beedrill ex, Chaos Rising, 003
+マスキッパ, Carnivine, Chaos Rising, 004
+ハリマロン, Chespin, Chaos Rising, 005
+ハリボーグ, Quilladin, Chaos Rising, 006
+ブリガロン, Chesnaught, Chaos Rising, 007
+ロコン, Vulpix, Chaos Rising, 008
+キュウコン, Ninetales, Chaos Rising, 009
+ホウオウ, Ho-Oh, Chaos Rising, 010
+フォッコ, Fennekin, Chaos Rising, 011
+テールナー, Braixen, Chaos Rising, 012
+マフォクシー, Delphox, Chaos Rising, 013
+シシコ, Litleo, Chaos Rising, 014
+メガカエンジシex, Mega Pyroar ex, Chaos Rising, 015
+テッポウオ, Remoraid, Chaos Rising, 016
+オクタン, Octillery, Chaos Rising, 017
+デリバード, Delibird, Chaos Rising, 018
+ケルディオ, Keldeo, Chaos Rising, 019
+ケロマツ, Froakie, Chaos Rising, 020
+ゲコガシラ, Frogadier, Chaos Rising, 021
+メガゲッコウガex, Mega Greninja ex, Chaos Rising, 022
+カチコール, Bergmite, Chaos Rising, 023
+クレベース, Avalugg, Chaos Rising, 024
+コソクムシ, Wimpod, Chaos Rising, 025
+グソクムシャ, Golisopod, Chaos Rising, 026
+メリープ, Mareep, Chaos Rising, 027
+モココ, Flaaffy, Chaos Rising, 028
+デンリュウ, Ampharos, Chaos Rising, 029
+エモンガ, Emolga, Chaos Rising, 030
+デオキシス, Deoxys, Chaos Rising, 031
+デオキシス, Deoxys, Chaos Rising, 032
+デオキシス, Deoxys, Chaos Rising, 033
+デオキシス, Deoxys, Chaos Rising, 034
+メガフラエッテex, Mega Floette ex, Chaos Rising, 035
+ニャスパー, Espurr, Chaos Rising, 036
+ニャオニクス, Meowstic, Chaos Rising, 037
+ボクレー, Phantump, Chaos Rising, 038
+オーロット, Trevenant, Chaos Rising, 039
+バケッチャ, Pumpkaboo, Chaos Rising, 040
+パンプジンex, Gourgeist ex, Chaos Rising, 041
+ゼルネアス, Xerneas, Chaos Rising, 042
+ウソッキー, Sudowoodo, Chaos Rising, 043
+ゴマゾウ, Phanpy, Chaos Rising, 044
+ドンファン, Donphan, Chaos Rising, 045
+ヤジロン, Baltoy, Chaos Rising, 046
+ネンドール, Claydol, Chaos Rising, 047
+メガエルレイドex, Mega Gallade ex, Chaos Rising, 048
+ズバット, Zubat, Chaos Rising, 049
+ゴルバット, Golbat, Chaos Rising, 050
+クロバット, Crobat, Chaos Rising, 051
+ハリーセン, Qwilfish, Chaos Rising, 052
+スカンプー, Stunky, Chaos Rising, 053
+スカタンク, Skuntank, Chaos Rising, 054
+ワルビアルex, Krookodile ex, Chaos Rising, 055
+ヤブクロン, Trubbish, Chaos Rising, 056
+ダストダス, Garbodor, Chaos Rising, 057
+クズモー, Skrelp, Chaos Rising, 058
+ダンバル, Beldum, Chaos Rising, 059
+メタング, Metang, Chaos Rising, 060
+メタグロス, Metagross, Chaos Rising, 061
+テッシード, Ferroseed, Chaos Rising, 062
+ナットレイ, Ferrothorn, Chaos Rising, 063
+コバルオンex, Cobalion ex, Chaos Rising, 064
+メガドラミドロex, Mega Dragalge ex, Chaos Rising, 065
+ヌメラ, Goomy, Chaos Rising, 066
+ヌメイル, Sliggoo, Chaos Rising, 067
+ヌメルゴン, Goodra, Chaos Rising, 068
+ケンタロス, Tauros, Chaos Rising, 069
+ミネズミ, Patrat, Chaos Rising, 070
+ミルホッグ, Watchog, Chaos Rising, 071
+チラーミィ, Minccino, Chaos Rising, 072
+チラチーノex, Cinccino ex, Chaos Rising, 073
+逆境ほけん, Adversity Policy, Chaos Rising, 074
+アンジュフラエッテ, Ange Floette, Chaos Rising, 075
+AZのやすらぎ, AZ’s Tranquility, Chaos Rising, 076
+マチエール, Emma, Chaos Rising, 077
+大漁ネット, Great Haul Net, Chaos Rising, 078
+ジプソ, Philippe, Chaos Rising, 079
+プリズムタワー, Prism Tower, Chaos Rising, 080
+ホミカの演奏, Roxie’s Performance, Chaos Rising, 081
+スペシャルレッドカード, Special Red Card, Chaos Rising, 082
+変化の書, Transformation Tome, Chaos Rising, 083
+バブル水エネルギー, Bubbly Energy, Chaos Rising, 084
+マグネット鋼エネルギー, Magnetic Energy, Chaos Rising, 085
+ニトロ炎エネルギー, Nitro Energy, Chaos Rising, 086
+
+
+
+
+トロピウス, Tropius, Pitch Black, 001
+アゴジムシ, Grubbin, Pitch Black, 002
+カリキリ, Fomantis, Pitch Black, 003
+ラランテスex, Lurantis ex, Pitch Black, 004
+チャデス, Poltchageist, Pitch Black, 005
+ヤバソチャ, Sinistcha, Pitch Black, 006
+ヒードラン, Heatran, Pitch Black, 007
+メガマフォクシーex, Mega Delphox ex, Pitch Black, 008
+ヤクデ, Sizzlipede, Pitch Black, 009
+マルヤクデ, Centiskorch, Pitch Black, 010
+カルボウ, Charcadet, Pitch Black, 011
+グレンアルマ, Armarouge, Pitch Black, 012
+トサキント, Goldeen, Pitch Black, 013
+アズマオウ, Seaking, Pitch Black, 014
+ホエルコ, Wailmer, Pitch Black, 015
+ホエルオーex, Wailord ex, Pitch Black, 016
+ジーランス, Relicanth, Pitch Black, 017
+アシマリ, Popplio, Pitch Black, 018
+オシャマリ, Brionne, Pitch Black, 019
+アシレーヌ, Primarina, Pitch Black, 020
+ナミイルカ, Finizen, Pitch Black, 021
+イルカマン, Palafin, Pitch Black, 022
+ラクライ, Electrike, Pitch Black, 023
+ライボルト, Manectric, Pitch Black, 024
+デンヂムシ, Charjabug, Pitch Black, 025
+クワガノン, Vikavolt, Pitch Black, 026
+メガゼラオラex, Mega Zeraora ex, Pitch Black, 027
+ミライドン, Miraidon, Pitch Black, 028
+ヤドン, Slowpoke, Pitch Black, 029
+ヤドラン, Slowbro, Pitch Black, 030
+メガヤドランex, Mega Slowbro ex, Pitch Black, 031
+ルージュラ, Jynx, Pitch Black, 032
+カゲボウズ, Shuppet, Pitch Black, 033
+ジュペッタ, Banette, Pitch Black, 034
+ミカルゲ, Spiritomb, Pitch Black, 035
+ヒトモシ, Litwick, Pitch Black, 036
+ランプラー, Lampent, Pitch Black, 037
+メガシャンデラex, Mega Chandelure ex, Pitch Black, 038
+ダダリン, Dhelmise, Pitch Black, 039
+マーシャドー, Marshadow, Pitch Black, 040
+コノヨザル, Annihilape, Pitch Black, 041
+マンキー, Mankey, Pitch Black, 042
+オコリザル, Primeape, Pitch Black, 043
+ズガイドス, Cranidos, Pitch Black, 044
+ラムパルドex, Rampardos ex, Pitch Black, 045
+モグリュー, Drilbur, Pitch Black, 046
+コライドン, Koraidon, Pitch Black, 047
+メガダークライex, Mega Darkrai ex, Pitch Black, 048
+バルチャイ, Vullaby, Pitch Black, 049
+バルジーナ, Mandibuzz, Pitch Black, 050
+マーイーカ, Inkay, Pitch Black, 051
+カラマネロ, Malamar, Pitch Black, 052
+クスネ, Nickit, Pitch Black, 053
+フォクスライ, Thievul, Pitch Black, 054
+モルペコex, Morpeko ex, Pitch Black, 055
+ザルード, Zarude, Pitch Black, 056
+オラチフ, Maschiff, Pitch Black, 057
+マフィティフ, Mabosstiff, Pitch Black, 058
+イーユイ, Chi-Yu, Pitch Black, 059
+エアームド, Skarmory, Pitch Black, 060
+タテトプス, Shieldon, Pitch Black, 061
+トリデプス, Bastiodon, Pitch Black, 062
+ドーミラー, Bronzor, Pitch Black, 063
+ドータクン, Bronzong, Pitch Black, 064
+メガドリュウズex, Mega Excadrill ex, Pitch Black, 065
+ツツケラ, Pikipek, Pitch Black, 066
+ケララッパ, Trumbeak, Pitch Black, 067
+ドデカバシ, Toucannon, Pitch Black, 068
+タイプ：ヌル, Type: Null, Pitch Black, 069
+シルヴァディ, Silvally, Pitch Black, 070
+オトシドリ, Bombirdier, Pitch Black, 071
+古びたたてのカセキ, Antique Armor Fossil, Pitch Black, 072
+古びたずがいのカセキ, Antique Skull Fossil, Pitch Black, 073
+リトライバッジ, Backtrack Badge, Pitch Black, 074
+ダークベル, Dark Bell, Pitch Black, 075
+化石採掘場, Fossil Quarry, Pitch Black, 076
+グラジオの決闘, Gladion’s Final Battle, Pitch Black, 077
+ムク, Gwynn, Pitch Black, 078
+ジェット, Jett, Pitch Black, 079
+カスミの元気, Misty’s Vitality, Pitch Black, 080
+サビ団のしたっぱ, Rust Syndicate Grunt, Pitch Black, 081
+ごうかいボム, Tremendous Bomb, Pitch Black, 082
+シャドー悪エネルギー, Shadowy Energy, Pitch Black, 083
+ボルト雷エネルギー, Voltaic Energy, Pitch Black, 084
