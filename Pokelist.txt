@@ -786,7 +786,7 @@
 サケブシッポ, Scream Tail, Prismatic Evolutions, 042
 ハバタクカミ, Flutter Mane, Prismatic Evolutions, 043
 マシマシラ, Munkidori, Prismatic Evolutions, 044
-イイネイヌ, Fezandipiti, Prismatic Evolutions, 045
+キチキギス, Fezandipiti, Prismatic Evolutions, 045
 テツノイワオ, Iron Boulder, Prismatic Evolutions, 046
 ヨーギラス, Larvitar, Prismatic Evolutions, 047
 サナギラス, Pupitar, Prismatic Evolutions, 048
@@ -798,7 +798,7 @@
 ガチグマ アカツキ, Bloodmoon Ursaluna, Prismatic Evolutions, 054
 イダイナキバ, Great Tusk, Prismatic Evolutions, 055
 スナケガワex, Sandy Shocks ex, Prismatic Evolutions, 056
-キチキギス, Okidogi, Prismatic Evolutions, 057
+イイネイヌ, Okidogi, Prismatic Evolutions, 057
 オーガポン いしずえのめんex, Cornerstone Mask Ogerpon ex, Prismatic Evolutions, 058
 ブラッキー, Umbreon, Prismatic Evolutions, 059
 ブラッキーex, Umbreon ex, Prismatic Evolutions, 060
