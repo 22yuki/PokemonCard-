@@ -34,7 +34,7 @@ def format_card_no(card_no):
     formatted = card_no.lstrip('0')
     return formatted if formatted else '0'
 
-st.title("PTCGL カード検索ツール")
+st.title("PTCGL カード検索")
 
 file_path = "Pokelist.txt"
 
