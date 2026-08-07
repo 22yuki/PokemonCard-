@@ -76,22 +76,22 @@ else:
                 formatted_no = format_card_no(res['card_no'])
                 img_url = f"https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/{set_code}/{set_code}_EN_{formatted_no}.png"
 
-            # 左側の画像エリア用HTML（画像がある場合とない場合）
+            # 画像がある場合とない場合の処理（画像を角丸にしています）
             if img_url:
-                img_box = f'<img src="{img_url}" alt="{res["en_name"]}" style="width: 100%; height: auto; display: block;">'
+                img_box = f'<img src="{img_url}" alt="{res["en_name"]}" style="width: 100%; height: auto; display: block; border-radius: 4px;">'
             else:
-                img_box = '<div style="height: 130px; background-color: #eee; display: flex; align-items: center; justify-content: center; color: #777; border-radius: 4px; font-size: 0.8rem;">No Image</div>'
+                img_box = '<div style="height: 100px; background-color: #2b2b30; display: flex; align-items: center; justify-content: center; color: #888; border-radius: 4px; font-size: 0.75rem;">No Image</div>'
 
-            # 行頭の空白（インデント）を一切排除したHTML文字列
-            card_html = f"""<div style="display: flex; align-items: start; gap: 12px; margin-bottom: 15px; border: 1px solid #ddd; padding: 10px; border-radius: 8px; background-color: white;">
-<div style="flex: 0 0 90px;">
+            # 黒に近いダークグレー背景 ＆ 文字色白 ＆ 画像幅70px
+            card_html = f"""<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px; border: 1px solid #33333a; padding: 10px; border-radius: 8px; background-color: #1f1f23; color: #ffffff;">
+<div style="flex: 0 0 70px;">
 {img_box}
 </div>
-<div style="flex: 1; font-size: 0.85rem; color: #333; line-height: 1.4;">
-<p style="margin: 0 0 4px 0;"><strong>日本語名：</strong> {res['jp_name']}</p>
-<p style="margin: 0 0 4px 0;"><strong>カード名：</strong> {res['en_name']}</p>
-<p style="margin: 0 0 4px 0;"><strong>パック名：</strong> {res['pack_name']}</p>
-<p style="margin: 0;"><strong>カードNo：</strong> {res['card_no']}</p>
+<div style="flex: 1; font-size: 0.85rem; color: #ffffff; line-height: 1.5;">
+<p style="margin: 0 0 3px 0;"><strong style="color: #90caf9;">日本語名：</strong> {res['jp_name']}</p>
+<p style="margin: 0 0 3px 0;"><strong style="color: #90caf9;">カード名：</strong> {res['en_name']}</p>
+<p style="margin: 0 0 3px 0;"><strong style="color: #90caf9;">パック名：</strong> {res['pack_name']}</p>
+<p style="margin: 0;"><strong style="color: #90caf9;">カードNo：</strong> {res['card_no']}</p>
 </div>
 </div>"""
             
