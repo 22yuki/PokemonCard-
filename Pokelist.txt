@@ -964,8 +964,8 @@ Nのシンボラー, N’s Sigilyph, Journey Together, 064
 ルガルガン, Lycanroc, Journey Together, 085
 ホップのスナヘビ, Hop’s Silicobra, Journey Together, 086
 ホップのサダイジャ, Hop’s Sandaconda, Journey Together, 087
-ウデッポウ, Toedscool, Journey Together, 088
-ブロスター, Toedscruel, Journey Together, 089
+ノノクラゲ, Toedscool, Journey Together, 088
+リククラゲ, Toedscruel, Journey Together, 089
 ガケガニ, Klawf, Journey Together, 090
 ドガース, Koffing, Journey Together, 091
 マタドガス, Weezing, Journey Together, 092
@@ -1148,8 +1148,8 @@ Nのポイントアップ, N’s PP Up, Journey Together, 153
 カバルドン, Hippowdon, Destined Rivals, 106
 ドロバンコ, Mudbray, Destined Rivals, 107
 バンバドロ, Mudsdale, Destined Rivals, 108
-ペパーのウデッポウ, Arven’s Toedscool, Destined Rivals, 109
-ペパーのブロスター, Arven’s Toedscruel, Destined Rivals, 110
+ペパーのノノクラゲ, Arven’s Toedscool, Destined Rivals, 109
+ペパーのリククラゲ, Arven’s Toedscruel, Destined Rivals, 110
 オーガポン かまどのめん, Cornerstone Mask Ogerpon, Destined Rivals, 111
 ロケット団のアーボ, Team Rocket’s Ekans, Destined Rivals, 112
 ロケット団のアーボック, Team Rocket’s Arbok, Destined Rivals, 113
