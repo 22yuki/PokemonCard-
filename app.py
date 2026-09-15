@@ -18,7 +18,8 @@ PACK_CODES = {
     "Ascended Heroes": "ME2PT5",
     "Perfect Order": "ME03",
     "Chaos Rising": "ME04",
-    "Pitch Black": "ME05"
+    "Pitch Black": "ME05",
+    "30th Celebration": "ME6PT5"
 }
 
 def hira_to_kata(text):
@@ -48,9 +49,9 @@ else:
         # 入力文字の表記ゆれ対策
         search_raw = search_term.lower().strip()
         search_kata = hira_to_kata(search_term).lower().strip()
-        
+
         results = []
-        
+
         with open(file_path, "r", encoding="utf-8") as f:
             for line in f:
                 if not line.strip():
@@ -58,12 +59,12 @@ else:
                 parts = [p.strip() for p in line.split(",")]
                 if len(parts) >= 4:
                     jp_name, en_name, pack_name, card_no = parts[0], parts[1], parts[2], parts[3]
-                    
+
                     # 比較用に各要素を小文字化・正規化
                     normalized_jp = hira_to_kata(jp_name).lower()
                     normalized_en = en_name.lower()
                     normalized_pack = pack_name.lower()
-                    
+
                     # 日本語名、英語名、パック名の「いずれか」に引っかかれば判定OK
                     if (search_kata in normalized_jp) or (search_raw in normalized_en) or (search_raw in normalized_pack):
                         results.append({
@@ -75,11 +76,11 @@ else:
 
         st.write("---")
         st.write(f"**検索結果：{len(results)}件**")
-        
+
         for res in results:
             pack_name = res['pack_name']
             set_code = PACK_CODES.get(pack_name)
-            
+
             img_url = None
             if set_code:
                 formatted_no = format_card_no(res['card_no'])
@@ -101,5 +102,5 @@ else:
 <p style="margin: 0;"><strong style="color: #90caf9;">カードNo：</strong> {res['card_no']}</p>
 </div>
 </div>"""
-            
+
             st.markdown(card_html, unsafe_allow_html=True)
