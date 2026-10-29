@@ -19,7 +19,8 @@ PACK_CODES = {
     "Perfect Order": "ME03",
     "Chaos Rising": "ME04",
     "Pitch Black": "ME05",
-    "30th Celebration": "30TH"
+    "30th Celebration": "30TH",
+    "Delta Reign": "ME06"
 }
 
 def hira_to_kata(text):

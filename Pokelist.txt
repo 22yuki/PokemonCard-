@@ -2125,10 +2125,9 @@ AZのやすらぎ,AZ’s Tranquility,Chaos Rising,76
 ごうかいボム,Tremendous Bomb,Pitch Black,82
 シャドー悪エネルギー,Shadowy Energy,Pitch Black,83
 ボルト雷エネルギー,Voltaic Energy,Pitch Black,84
-,,,
-,,,
-,,,
-,,,
+
+
+
 タマタマ,Exeggcute,30th Celebration,1
 アローラナッシー,Alolan Exeggutor,30th Celebration,2
 バルビート,Volbeat,30th Celebration,3
@@ -2257,3 +2256,107 @@ AZのやすらぎ,AZ’s Tranquility,Chaos Rising,76
 ポケパッド,Poké Pad,30th Celebration,126
 ポケモンいれかえ,Switch,30th Celebration,127
 ハイパーボール,Ultra Ball,30th Celebration,128
+
+ヘラクロス,Heracross,Delta Reign,001
+アメタマ,Surskit,Delta Reign,002
+アメモース,Masquerain,Delta Reign,003
+サボネア,Cacnea,Delta Reign,004
+ノクタス,Cacturne,Delta Reign,005
+ミツハニー,Combee,Delta Reign,006
+ビークイン,Vespiquen,Delta Reign,007
+シェイミ,Shaymin,Delta Reign,008
+ビリジオン,Virizion,Delta Reign,009
+コソクムシ,Wimpod,Delta Reign,010
+メガグソクムシャex,Mega Golisopod ex,Delta Reign,011
+ニャオハ,Sprigatito,Delta Reign,012
+ニャローテ,Floragato,Delta Reign,013
+マスカーニャex,Meowscarada ex,Delta Reign,014
+ミニーブ,Smoliv,Delta Reign,015
+オリーニョ,Dolliv,Delta Reign,016
+オリーヴァ,Arboliva,Delta Reign,017
+ガーディ,Growlithe,Delta Reign,018
+ウインディ,Arcanine,Delta Reign,019
+ブーバー,Magmar,Delta Reign,020
+ブーバーン,Magmortar,Delta Reign,021
+コータス,Torkoal,Delta Reign,022
+ヒートロトムex,Heat Rotom ex,Delta Reign,023
+クイタラン,Heatmor,Delta Reign,024
+タマンタ,Mantine,Delta Reign,025
+カイオーガ,Kyogre,Delta Reign,026
+プルリール,Frillish,Delta Reign,027
+ブルンゲル,Jellicent,Delta Reign,028
+ヨワシex,Wishiwashi ex,Delta Reign,029
+エレブー,Electabuzz,Delta Reign,030
+エレキブル,Electivire,Delta Reign,031
+サンダース,Jolteon,Delta Reign,032
+ライコウex,Raikou ex,Delta Reign,033
+ロトム,Rotom,Delta Reign,034
+ボルトロス,Thundurus,Delta Reign,035
+バチンウニ,Pincurchin,Delta Reign,036
+パモ,Pawmi,Delta Reign,037
+パモット,Pawmo,Delta Reign,038
+パーモット,Pawmot,Delta Reign,039
+カイデン,Wattrel,Delta Reign,040
+タイカイデン,Kilowattrel,Delta Reign,041
+ミライドン,Miraidon,Delta Reign,042
+スリープ,Drowzee,Delta Reign,043
+スリーパー,Hypno,Delta Reign,044
+ギラティナ,Giratina,Delta Reign,045
+ビビット,Golett,Delta Reign,046
+メガゴルーグex,Mega Golurk ex,Delta Reign,047
+ラブトロス,Enamorus,Delta Reign,048
+サンド,Sandshrew,Delta Reign,049
+サンドパン,Sandslash,Delta Reign,050
+イワーク,Onix,Delta Reign,051
+ハガネール,Steelix,Delta Reign,052
+グラードン,Groudon,Delta Reign,053
+ランドロス,Landorus,Delta Reign,054
+ニドラン♀,Nidoran♀,Delta Reign,055
+ニドリーナ,Nidorina,Delta Reign,056
+ニドクイン,Nidoqueen,Delta Reign,057
+イトマル,Spinarak,Delta Reign,058
+アリアドス,Ariados,Delta Reign,059
+ヤミラミ,Sableye,Delta Reign,060
+キバニア,Carvanha,Delta Reign,061
+サメハダー,Sharpedo,Delta Reign,062
+ダークライ,Darkrai,Delta Reign,063
+チョロネコ,Purrloin,Delta Reign,064
+レパルダス,Liepard,Delta Reign,065
+ゾロア,Zorua,Delta Reign,066
+ゾロアークex,Zoroark ex,Delta Reign,067
+マーイーカ,Inkay,Delta Reign,068
+メガカラマネロex,Mega Malamar ex,Delta Reign,069
+モルペコ,Morpeko,Delta Reign,070
+ザルード,Zarude,Delta Reign,071
+クリムガン,Druddigon,Delta Reign,072
+ジャラコ,Jangmo-o,Delta Reign,073
+ジャランゴ,Hakamo-o,Delta Reign,074
+ジャラランガ,Kommo-o,Delta Reign,075
+モトトカゲ,Cyclizar,Delta Reign,076
+ケンタロス,Tauros,Delta Reign,077
+イーブイ,Eevee,Delta Reign,078
+デリバード,Delibird,Delta Reign,079
+ルリリ,Azurill,Delta Reign,080
+チルット,Swablu,Delta Reign,081
+チルタリス,Altaria,Delta Reign,082
+カクレオン,Kecleon,Delta Reign,083
+メガレックウザex,Mega Rayquaza ex,Delta Reign,084
+トルネロス,Tornadus,Delta Reign,085
+ヤヤコマ,Fletchling,Delta Reign,086
+ヒノヤコマ,Fletchinder,Delta Reign,087
+ファイアローex,Talonflame ex,Delta Reign,088
+ギリー,Aarune,Delta Reign,089
+ぼうけんのランタン,Adventure Lantern,Delta Reign,090
+カスタムベスト,Custom Vest,Delta Reign,091
+MCの盛り上げ,Emcee’s Hype,Delta Reign,092
+グリ,Grisham,Delta Reign,093
+伝説の溶岩洞,Legendary Pyroduct,Delta Reign,094
+伝説の溶岩洞,Legendary Pyroduct,Delta Reign,095
+伝説の山頂,Legendary Summit,Delta Reign,096
+伝説の山頂,Legendary Summit,Delta Reign,097
+伝説の海溝,Legendary Trench,Delta Reign,098
+伝説の海溝,Legendary Trench,Delta Reign,099
+メガレックウザキャップ,Mega Rayquaza Cap,Delta Reign,100
+おいしいおむすび,Tasty Rice Ball,Delta Reign,101
+フウとランの修行,Tate & Liza’s Training,Delta Reign,102
+ヒガナの信頼,Zinnia’s Trust,Delta Reign,103
