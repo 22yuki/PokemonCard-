@@ -2,6 +2,9 @@ import streamlit as st
 import os
 import base64
 
+# スクリプトがあるディレクトリ（絶対パス）を取得
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 # パック名と公式画像URLの記号の対応表
 PACK_CODES = {
     "Temporal Forces": "SV05",
@@ -37,7 +40,7 @@ def format_card_no(card_no):
     formatted = card_no.lstrip('0')
     return formatted if formatted else '0'
 
-# ローカルの NoIMG.png を Base64 に変換する関数
+# ローカルの NoIMG.png を Base64 に変換する関数（絶対パス対応）
 def get_base64_image(file_path):
     if os.path.exists(file_path):
         try:
@@ -50,12 +53,12 @@ def get_base64_image(file_path):
 
 st.title("PTCGL カード検索")
 
-file_path = "Pokelist.txt"
-no_img_path = "NoIMG.png"
+txt_path = os.path.join(BASE_DIR, "Pokelist.txt")
+no_img_path = os.path.join(BASE_DIR, "NoIMG.png")
 no_img_data_url = get_base64_image(no_img_path)
 
-if not os.path.exists(file_path):
-    st.error(f"エラー: '{file_path}' が見つかりません。")
+if not os.path.exists(txt_path):
+    st.error(f"エラー: 'Pokelist.txt' が見つかりません。")
 else:
     search_term = st.text_input("カード名（日本語/英語）またはパック名を入力:")
 
@@ -66,7 +69,7 @@ else:
 
         results = []
 
-        with open(file_path, "r", encoding="utf-8") as f:
+        with open(txt_path, "r", encoding="utf-8") as f:
             for line in f:
                 if not line.strip():
                     continue
@@ -101,18 +104,17 @@ else:
             # 画像ボックスのHTML生成
             if img_url:
                 if no_img_data_url:
-                    # 公式画像の読み込みに失敗したら NoIMG.png に切り替える
-                    img_box = f'<img src="{img_url}" alt="{res["en_name"]}" onerror="this.onerror=null;this.src=\'{no_img_data_url}\';" style="width: 100%; height: auto; display: block; border-radius: 4px;">'
+                    # 公式画像の読み込みに失敗(404)した場合、自動で NoIMG.png に差し替える
+                    img_box = f'''<img src="{img_url}" alt="" onerror="this.onerror=null; this.src='{no_img_data_url}';" style="width: 100%; height: auto; display: block; border-radius: 4px;">'''
                 else:
-                    # NoIMG.pngすらない場合は通常のテキストフォールバック
-                    img_box = f'<img src="{img_url}" alt="{res["en_name"]}" style="width: 100%; height: auto; display: block; border-radius: 4px;">'
+                    # 万が一 NoIMG.png すら読み込めない場合のフォールバック（グレーのボックス）
+                    img_box = f'''<img src="{img_url}" alt="" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" style="width: 100%; height: auto; display: block; border-radius: 4px;"><div style="display:none; height: 90px; background-color: #2b2b30; align-items: center; justify-content: center; color: #888; border-radius: 4px; font-size: 0.70rem; text-align: center;">No Image</div>'''
             else:
                 # パックコード自体がない場合
                 if no_img_data_url:
                     img_box = f'<img src="{no_img_data_url}" alt="No Image" style="width: 100%; height: auto; display: block; border-radius: 4px;">'
                 else:
-                    # NoIMG.pngもなくパックコードもない場合はグレーの枠を表示
-                    img_box = '<div style="height: 100px; background-color: #2b2b30; display: flex; align-items: center; justify-content: center; color: #888; border-radius: 4px; font-size: 0.75rem;">No Image</div>'
+                    img_box = '<div style="height: 90px; background-color: #2b2b30; display: flex; align-items: center; justify-content: center; color: #888; border-radius: 4px; font-size: 0.70rem;">No Image</div>'
 
             card_html = f"""<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px; border: 1px solid #33333a; padding: 10px; border-radius: 8px; background-color: #1f1f23; color: #ffffff;">
 <div style="flex: 0 0 70px;">
