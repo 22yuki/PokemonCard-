@@ -40,9 +40,12 @@ def format_card_no(card_no):
 # ローカルの NoIMG.png を Base64 に変換する関数
 def get_base64_image(file_path):
     if os.path.exists(file_path):
-        with open(file_path, "rb") as f:
-            encoded = base64.b64encode(f.read()).decode()
-        return f"data:image/png;base64,{encoded}"
+        try:
+            with open(file_path, "rb") as f:
+                encoded = base64.b64encode(f.read()).decode()
+            return f"data:image/png;base64,{encoded}"
+        except Exception:
+            return None
     return None
 
 st.title("PTCGL カード検索")
@@ -98,13 +101,17 @@ else:
             # 画像ボックスのHTML生成
             if img_url:
                 if no_img_data_url:
+                    # 公式画像の読み込みに失敗したら NoIMG.png に切り替える
                     img_box = f'<img src="{img_url}" alt="{res["en_name"]}" onerror="this.onerror=null;this.src=\'{no_img_data_url}\';" style="width: 100%; height: auto; display: block; border-radius: 4px;">'
                 else:
+                    # NoIMG.pngすらない場合は通常のテキストフォールバック
                     img_box = f'<img src="{img_url}" alt="{res["en_name"]}" style="width: 100%; height: auto; display: block; border-radius: 4px;">'
             else:
+                # パックコード自体がない場合
                 if no_img_data_url:
                     img_box = f'<img src="{no_img_data_url}" alt="No Image" style="width: 100%; height: auto; display: block; border-radius: 4px;">'
                 else:
+                    # NoIMG.pngもなくパックコードもない場合はグレーの枠を表示
                     img_box = '<div style="height: 100px; background-color: #2b2b30; display: flex; align-items: center; justify-content: center; color: #888; border-radius: 4px; font-size: 0.75rem;">No Image</div>'
 
             card_html = f"""<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px; border: 1px solid #33333a; padding: 10px; border-radius: 8px; background-color: #1f1f23; color: #ffffff;">
