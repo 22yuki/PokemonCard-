@@ -69,7 +69,7 @@ else:
                     continue
                 parts = [p.strip() for p in line.split(",")]
                 if len(parts) >= 4:
-                    jp_name, en_name, pack_name, card_no = parts[0], parts[1], parts[2], parts.get(3, parts[3]) # 安全のため
+                    jp_name, en_name, pack_name, card_no = parts[0], parts[1], parts[2], parts[3]
 
                     normalized_jp = hira_to_kata(jp_name).lower()
                     normalized_en = en_name.lower()
@@ -98,12 +98,10 @@ else:
             # 画像ボックスのHTML生成
             if img_url:
                 if no_img_data_url:
-                    # 公式画像URLはあるが読み込みに失敗(404など)した場合に onerror で NoIMG.png に切り替える
                     img_box = f'<img src="{img_url}" alt="{res["en_name"]}" onerror="this.onerror=null;this.src=\'{no_img_data_url}\';" style="width: 100%; height: auto; display: block; border-radius: 4px;">'
                 else:
                     img_box = f'<img src="{img_url}" alt="{res["en_name"]}" style="width: 100%; height: auto; display: block; border-radius: 4px;">'
             else:
-                # パックコード自体がない場合
                 if no_img_data_url:
                     img_box = f'<img src="{no_img_data_url}" alt="No Image" style="width: 100%; height: auto; display: block; border-radius: 4px;">'
                 else:
